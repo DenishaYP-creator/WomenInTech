@@ -1,6 +1,6 @@
 
-[![WITECHBanner.png](https://i.postimg.cc/zf4hVPHt/WITECHBanner.png)](https://postimg.cc/kVFGHscK)
 [![Womenin-Twch.png](https://i.postimg.cc/G2PjRQ8B/Womenin-Twch.png)](https://postimg.cc/PpxDz1Mh)
+[![Womenpng.png](https://i.postimg.cc/C1jRdMg5/Womenpng.png)](https://postimg.cc/hztD5BhR)
 <hr>
 
 # WomenInTech: Segment One
