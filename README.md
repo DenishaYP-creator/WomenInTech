@@ -1,33 +1,61 @@
-# WomenInTech
+[![Womenin-Twch.png](https://i.postimg.cc/G2PjRQ8B/Womenin-Twch.png)](https://postimg.cc/PpxDz1Mh)
+<hr>
 
-## Segment One 
-### Team Members 
-Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
------------- | -------------  | ------------- | ------------- | -------------
+# WomenInTech: Segment One
 
-### Presentation 
-Content: The team members have drafted their project, including the following:
+## Presentation: 
+### Overview of the Problem
 
-- Selected topic
-- Reason they selected the topic
-- Description of the source of data
-- Questions they hope to answer with the data
+**Target Population of Interest:** Women in Machine Learning and Data Science  Technology roles in the United States who responded to annual Surveys of various sources.
 
-### GitHub Repository 
-- Main Branch: Include README.md in the main branch with  Description of the communication protocols
-- Individual Branches: One branch for each team member with at least 4 commits per team member during the first segment
+According to the US Bureau of Labor Statistics, "Employment in computer and information technology occupations is projected to grow faster than the average for all occupations."
 
-### Machine Learning Model
+**Problem Statement:** Despite the growth in Technology jobs the number of Women in the United States that are occupying roles in Technology is significantly less than their male counterparts. When we look at the women's representation in the Data Science field the gender imbalance still remains to be true. 
+
+**Question:**  What is the difference between the percentage of the women population (Kaggle Survey respondent) and men population (Kaggle Survey respondents) who occupied Technology roles in Machine Learning and Data Science in the United States? 
+
+
+Null Hypothesis: | Alternative Hypothesis:
+------------ | -------------
+There is NO difference between the percentage of the women population  and the men population who occupied Technology roles in Machine Learning and Data Science in the United States| There IS a difference between the percentage of the women population  and the men population who occupied Technology roles in Machine Learning and Data Science in the United States
+
+
+**Objectives**
+In Our analysis, we will compare the 2020 survey results against the previous two years surveys to determine the key differences between men & women within the Kaggle Survey dataset in order to reject the null hypythosis and conclude that gender imbalance exists.  Furthermore, we will seek to understand the state of Women in ML and DS Technology roles. We will utilize a Supervised Machine learning algorithm to predict the type of ML & DA role type the women population will enter based on factors such as education, experience, and age, and current role. 
+
+**Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors. 
+
+## GitHub Repository 
+- The Women in Tech Github Repo has a main branch and 5 other branches as follows:
+  - ETL-Extract_Transform_Load
+  - Database
+  - Machine_Learning
+  - Visualization
+  - Presentation
+
+
+## Machine Learning Model
 Team members to present a provisional machine learning model that accomplishes the following:
 - Takes in data from the provisional database
 - Outputs label for input data
 
-### Database Integration
+##  Database Integration
 Team members to present a provisional database that accomplishes the following:
 - Sample data that mimics the expected final database structure or schema
 - Draft machine learning model is connected to the provisional databas
 
-### Database Integration
-- N/A for ## Segment One 
+
+## Team Members 
+Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
+------------ | -------------  | ------------- | ------------- | -------------
+ ### Team Communication
+ The Women in Tech team primary means of communciation is Slack. Team member will utilize the Orange slack to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
+
 
 <hr> 
+
+# Segment Two: Coming Soon! 
+
+<hr> 
+
+[![womenin-Tech2.png](https://i.postimg.cc/QdLVgrn3/womenin-Tech2.png)](https://postimg.cc/qzLk0WTb)
