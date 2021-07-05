@@ -85,11 +85,24 @@ Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
  
 ### Group Project Components 
 
-- Segment 1: Sketch It Out	
-- Segment 2: Build the Pieces	
-- Segment 3: Plug It In	Group	
-- Segment 4: Put It All Together
+Segment | Title | Start Date | End Date 
+------------ | ------------- | ------------- | -------------
+One | Sketch It Out | TBD | Jul 4 
+Two |Build the Pieces | Jul 5  | Jul 18
+Three |Plug It In	Group |	Jul 19 | Jul 25
+Four|Put It All Together | Jul 26 | Aug 1
 
+### Group Project Deliverables 
+- [x] Presentation
+- [x] Github Repo
+- [x] Machine Learning Model
+- [x] Database
+- [x] Dashboard 
+
+## Technologies 
+- Database: Postgress SQL
+- Dashboard: Tableau
+- Libraries: Pandas, Numpy, Mathplotlib, Skilearn, Imbalance Learn 
  
 <hr> 
 
