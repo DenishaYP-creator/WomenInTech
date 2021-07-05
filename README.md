@@ -3,10 +3,9 @@
 [![Womenpng.png](https://i.postimg.cc/C1jRdMg5/Womenpng.png)](https://postimg.cc/hztD5BhR)
 <hr>
 
-# WomenInTech: Segment One
+# WomenInTech: 
 
-## Presentation: 
-### Overview of the Problem
+## Overview of the Problem
 
 **Target Population of Interest:** Women in Machine Learning and Data Science  Technology roles in the United States who responded to annual Surveys of various sources.
 
@@ -27,13 +26,18 @@ In Our analysis, we will compare the 2020 survey results against the previous tw
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors. 
 
+<hr> 
+# 
+<hr> 
+
+
 ## GitHub Repository 
-- The Women in Tech Github Repo has a main branch and 5 other branches as follows:
-  - ETL-Extract_Transform_Load
-  - Database
-  - Machine_Learning
-  - Visualization
-  - Presentation
+The Women in Tech Github Repo has a main branch and 5 branches that are specific to the feature component of the project. The name of the branches are follows:
+1. ETL-Extract_Transform_Load
+2. Database
+3. Machine_Learning
+4. Visualization
+5. Presentation
 
 
 ## Machine Learning Model
@@ -51,7 +55,7 @@ Team members to present a provisional database that accomplishes the following:
 Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
 ------------ | -------------  | ------------- | ------------- | -------------
  ### Team Communication
- The Women in Tech team primary means of communciation is Slack. Team member will utilize the Orange slack to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
+ The Women in Tech team primary means of communciation is Slack. The Women in Tech team utlizes the Orange slack channel to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
 
 
 <hr> 
