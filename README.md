@@ -26,6 +26,51 @@ In Our analysis, we will compare the 2020 survey results against the previous tw
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors.
 
+**Data Source Details:
+
+1. What is the highest level of formal education that you have attained or plan to attain within the next 2 years(Q4)? 
+- No formal education past high school 
+- Some college/university study without earning a bachelor’s degree 
+- Bachelor’s degree 
+- Master’s degree 
+- Doctoral degree 
+- Professional degree 
+- I prefer not to answer
+2.  Select the title most similar to your current role or most recent title if retired(Q5): 
+Business Analyst 
+Data Analyst 
+Data Engineer 
+Data Scientist
+DBA/Database Engineer 
+Machine Learning Engineer
+Product/Project Manager
+Research Scientist 
+Software Engineer
+Statistician 
+Student 
+Currently not employed 
+Other
+
+3. For how many years have you been writing code and/or programming(Q6)? 
+I have never written code 
+< 1 years 
+1-2 years 
+3-5 years 
+5-10 years 
+10-20 years 
+ 20+ years
+ 
+5. What is the size of the company where you are employed(Q20)?
+0-49 employees 
+50-249 employees 
+250-999 employees 
+1000-9,999 employees 
+10,000 or more employees
+
+6. What is your current yearly compensation(Q24)? 
+
+
+
 ## GitHub Repository Details
 The Women in Tech Github Repo has a main branch and 5 branches that are specific to the feature component of the project. The name of the branches are follows:
 1. ETL-Extract_Transform_Load
@@ -38,21 +83,22 @@ The Women in Tech Github Repo has a main branch and 5 branches that are specific
 ### Quantitative data analysis methods
 The Linear Regression model machine learning model is the provisional machine learning model that stands in for the final machine learning model.
 The model would measure the degree of difference years of experience and its impact on the salary of women developers. In other see if there’s any kind of correlation between how a women salary be based on their years of experience.   
-**Target  Variable: Salary**
+**Target Variable: Salary**
 
 Input Variable | Output Variable
 ------------ | -------------
 X |y
 Years of Experience | Salary
 
-
-the will that accomplishes the following:
-- Takes in data from the provisional database
 - Outputs label for input data
-
-The model would measure the degree of difference years of experience and its impact on the salary of women developers within the stack overflow community. In other how much will a person salary be based on their experience. 
+ 
 
 ##  Database Integration
+
+Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
+------------ | -------------  | ------------- | ------------- | -------------
+
+
 Team members to present a provisional database that accomplishes the following:
 - Sample data that mimics the expected final database structure or schema
 - Draft machine learning model is connected to the provisional databas
