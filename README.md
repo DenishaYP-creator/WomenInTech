@@ -83,6 +83,14 @@ Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
  ### Team Communication
  The Women in Tech team primary means of communciation is Slack. The Women in Tech team utlizes the Orange slack channel to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
  
+### Group Project Components 
+
+- Segment 1: Sketch It Out	
+- Segment 2: Build the Pieces	
+- Segment 3: Plug It In	Group	
+- Segment 4: Put It All Together
+
+ 
 <hr> 
 
 # Segment Two: Coming Soon! 
