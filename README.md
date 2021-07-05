@@ -35,9 +35,14 @@ The Women in Tech Github Repo has a main branch and 5 branches that are specific
 5. Presentation
 
 ## Machine Learning Model
-Team members to present a provisional machine learning model that accomplishes the following:
+### Quantitative data analysis methods
+The Linear Regression model machine learning model is the provisional machine learning model that stands in for the final machine learning model.
+The model would measure the degree of difference years of experience and its impact on the salary of women developers. In other see if there’s any kind of correlation between how much will a person salary be based on their experience.   
+the will that accomplishes the following:
 - Takes in data from the provisional database
 - Outputs label for input data
+
+The model would measure the degree of difference years of experience and its impact on the salary of women developers within the stack overflow community. In other how much will a person salary be based on their experience. 
 
 ##  Database Integration
 Team members to present a provisional database that accomplishes the following:
@@ -53,14 +58,7 @@ Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
 ------------ | -------------  | ------------- | ------------- | -------------
  ### Team Communication
  The Women in Tech team primary means of communciation is Slack. The Women in Tech team utlizes the Orange slack channel to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
-
-
-
-
-
-
-
-
+ 
 <hr> 
 
 # Segment Two: Coming Soon! 
