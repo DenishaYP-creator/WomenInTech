@@ -22,9 +22,14 @@ There is NO difference between the percentage of the women population  and the m
 
 
 **Objectives**
-In Our analysis, we will compare the 2020 survey results against the previous two years surveys to determine the key differences between men & women within the Kaggle Survey dataset in order to reject the null hypythosis and conclude that gender imbalance exists.  Furthermore, we will seek to understand the state of Women in ML and DS Technology roles. We will utilize a Supervised Machine learning algorithm to predict the type of ML & DA role type the women population will enter based on factors such as education, experience, and age, and current role. 
+In Our analysis, we will compare the 2020 survey results against the previous two years surveys to determine the key differences between men & women within the Kaggle Survey dataset in order to reject the null hypythosis and conclude that gender imbalance exists.  Furthermore, we will seek to understand the state of Women in ML and DS Technology roles. We will utilize a Supervised Machine learning algorithm to predict salary of women in ML & DA role based on years of experience.
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors. 
+
+## Machine Learning Model
+Team members to present a provisional machine learning model that accomplishes the following:
+- Takes in data from the provisional database
+- Outputs label for input data
 
 [![Orange-BGpng-copy-2.png](https://i.postimg.cc/kXkDNtgG/Orange-BGpng-copy-2.png)](https://postimg.cc/2V7zryvN)
 
@@ -44,12 +49,6 @@ The Women in Tech Github Repo has a main branch and 5 branches that are specific
 3. Machine_Learning
 4. Visualization
 5. Presentation
-
-
-## Machine Learning Model
-Team members to present a provisional machine learning model that accomplishes the following:
-- Takes in data from the provisional database
-- Outputs label for input data
 
 ##  Database Integration
 Team members to present a provisional database that accomplishes the following:
