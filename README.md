@@ -26,9 +26,15 @@ In Our analysis, we will compare the 2020 survey results against the previous tw
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors. 
 
-<hr> 
-# 
-<hr> 
+[![Orange-BGpng.png](https://i.postimg.cc/MGH4WX10/Orange-BGpng.png)](https://postimg.cc/ns8T2FRM)
+
+# Further Details on the Women in Tech Project  
+
+## Team Members 
+Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
+------------ | -------------  | ------------- | ------------- | -------------
+ ### Team Communication
+ The Women in Tech team primary means of communciation is Slack. The Women in Tech team utlizes the Orange slack channel to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
 
 
 ## GitHub Repository 
@@ -51,11 +57,6 @@ Team members to present a provisional database that accomplishes the following:
 - Draft machine learning model is connected to the provisional databas
 
 
-## Team Members 
-Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
------------- | -------------  | ------------- | ------------- | -------------
- ### Team Communication
- The Women in Tech team primary means of communciation is Slack. The Women in Tech team utlizes the Orange slack channel to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
 
 
 <hr> 
