@@ -26,48 +26,21 @@ In Our analysis, we will compare the 2020 survey results against the previous tw
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors.
 
-**Data Source Details:
+**Data Source Details:**
 
-1. What is the highest level of formal education that you have attained or plan to attain within the next 2 years(Q4)? 
-- No formal education past high school 
-- Some college/university study without earning a bachelor’s degree 
-- Bachelor’s degree 
-- Master’s degree 
-- Doctoral degree 
-- Professional degree 
-- I prefer not to answer
-2.  Select the title most similar to your current role or most recent title if retired(Q5): 
-Business Analyst 
-Data Analyst 
-Data Engineer 
-Data Scientist
-DBA/Database Engineer 
-Machine Learning Engineer
-Product/Project Manager
-Research Scientist 
-Software Engineer
-Statistician 
-Student 
-Currently not employed 
-Other
+**1. What is the highest level of formal education that you have attained or plan to attain within the next 2 years(Q4)?** 
+a) No formal education past high school b) Some college/university study without earning a bachelor’s degree c) Bachelor’s degree d) Master’s degree e) Doctoral degree f) Professional degree g) I prefer not to answer
 
-3. For how many years have you been writing code and/or programming(Q6)? 
-I have never written code 
-< 1 years 
-1-2 years 
-3-5 years 
-5-10 years 
-10-20 years 
- 20+ years
+**2. Select the title most similar to your current role or most recent title if retired(Q5):**  
+a) Business Analyst b) Data Analyst c) Data Engineer d) Data Scientiste) DBA/Database Engineer f) Machine Learning Engineerg) Product/Project Managerh) Research Scientist i) Software Engineerj) Statistician k) Student l) Currently not employed m) Other
+
+**3. For how many years have you been writing code and/or programming(Q6)?** 
+a) I have never written code b) < 1 years c) 1-2 years d) 3-5 years e) 5-10 years f) 10-20 years g) 20+ years
  
-5. What is the size of the company where you are employed(Q20)?
-0-49 employees 
-50-249 employees 
-250-999 employees 
-1000-9,999 employees 
-10,000 or more employees
+**5. What is the size of the company where you are employed(Q20)?** 
+a) 0-49 employees b) 50-249 employees c) 250-999 employees d) 1000-9,999 employees e) 10,000 or more employees
 
-6. What is your current yearly compensation(Q24)? 
+**6. What is your current yearly compensation(Q24)?**  
 
 
 
