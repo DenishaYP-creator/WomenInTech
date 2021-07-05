@@ -37,7 +37,7 @@ The Women in Tech Github Repo has a main branch and 5 branches that are specific
 ## Machine Learning Model
 ### Quantitative data analysis methods
 The Linear Regression model machine learning model is the provisional machine learning model that stands in for the final machine learning model.
-The model would measure the degree of difference years of experience and its impact on the salary of women developers. In other see if there’s any kind of correlation between how much will a person salary be based on their experience.   
+The model would measure the degree of difference years of experience and its impact on the salary of women developers. In other see if there’s any kind of correlation between how a women salary be based on their years of experience.   
 the will that accomplishes the following:
 - Takes in data from the provisional database
 - Outputs label for input data
