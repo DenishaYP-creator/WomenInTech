@@ -84,9 +84,13 @@ Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
  The Women in Tech team primary means of communciation is Slack. The Women in Tech team utlizes the Orange slack channel to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
  
  ## Technologies 
-- Database: Postgress SQL
-- Dashboard: Tableau
-- Libraries: Pandas, Numpy, Mathplotlib, Skilearn, Imbalance Learn 
+ 
+**- Data Cleaning and Analysis:** Python Pandas will be used to clean and perform exploratory analysis on the data. 
+**- Database Storage:** Postgress SQL is the database we intend to use, and we will use Heruko to display the data.
+**- Dashboard: Tableau** for a fully functioning and interactive dashboard.
+**- Machine Learning:** SciKitLearn is the ML library we'll be using to create a the initial regression model or classification model if applicable.
+**- Other Libraries:** Numpy, Mathplotlib, Imbalance Learn 
+
  
 ### Group Project Deliverables 
 - [x] Presentation
