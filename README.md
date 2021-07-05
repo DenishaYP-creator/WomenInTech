@@ -83,7 +83,19 @@ Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
  ### Team Communication
  The Women in Tech team primary means of communciation is Slack. The Women in Tech team utlizes the Orange slack channel to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
  
-### Group Project Components 
+ ## Technologies 
+- Database: Postgress SQL
+- Dashboard: Tableau
+- Libraries: Pandas, Numpy, Mathplotlib, Skilearn, Imbalance Learn 
+ 
+### Group Project Deliverables 
+- [x] Presentation
+- [x] Github Repo
+- [x] Machine Learning Model
+- [x] Database
+- [x] Dashboard 
+
+### Group Project Components & Timeline  
 
 Segment | Title | Start Date | End Date 
 ------------ | ------------- | ------------- | -------------
@@ -92,17 +104,7 @@ Two |Build the Pieces | Jul 5  | Jul 18
 Three |Plug It In	Group |	Jul 19 | Jul 25
 Four|Put It All Together | Jul 26 | Aug 1
 
-### Group Project Deliverables 
-- [x] Presentation
-- [x] Github Repo
-- [x] Machine Learning Model
-- [x] Database
-- [x] Dashboard 
 
-## Technologies 
-- Database: Postgress SQL
-- Dashboard: Tableau
-- Libraries: Pandas, Numpy, Mathplotlib, Skilearn, Imbalance Learn 
  
 <hr> 
 
@@ -111,4 +113,3 @@ Four|Put It All Together | Jul 26 | Aug 1
 <hr> 
 
 [![womenin-Tech2.png](https://i.postimg.cc/QdLVgrn3/womenin-Tech2.png)](https://postimg.cc/qzLk0WTb)
-[![Orange-BGpng.png](https://i.postimg.cc/MGH4WX10/Orange-BGpng.png)](https://postimg.cc/ns8T2FRM)
