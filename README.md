@@ -31,6 +31,11 @@ Team members to present a provisional machine learning model that accomplishes t
 - Takes in data from the provisional database
 - Outputs label for input data
 
+##  Database Integration
+Team members to present a provisional database that accomplishes the following:
+- Sample data that mimics the expected final database structure or schema
+- Draft machine learning model is connected to the provisional databas
+
 [![Orange-BGpng-copy-2.png](https://i.postimg.cc/kXkDNtgG/Orange-BGpng-copy-2.png)](https://postimg.cc/2V7zryvN)
 
 # Further Details on the Women in Tech Project  
@@ -50,10 +55,6 @@ The Women in Tech Github Repo has a main branch and 5 branches that are specific
 4. Visualization
 5. Presentation
 
-##  Database Integration
-Team members to present a provisional database that accomplishes the following:
-- Sample data that mimics the expected final database structure or schema
-- Draft machine learning model is connected to the provisional databas
 
 
 
