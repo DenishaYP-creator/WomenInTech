@@ -26,7 +26,7 @@ In Our analysis, we will compare the 2020 survey results against the previous tw
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors. 
 
-[![Orange-BGpng.png](https://i.postimg.cc/MGH4WX10/Orange-BGpng.png)](https://postimg.cc/ns8T2FRM)
+[![Orange-BGpng-copy-2.png](https://i.postimg.cc/kXkDNtgG/Orange-BGpng-copy-2.png)](https://postimg.cc/2V7zryvN)
 
 # Further Details on the Women in Tech Project  
 
@@ -66,3 +66,4 @@ Team members to present a provisional database that accomplishes the following:
 <hr> 
 
 [![womenin-Tech2.png](https://i.postimg.cc/QdLVgrn3/womenin-Tech2.png)](https://postimg.cc/qzLk0WTb)
+[![Orange-BGpng.png](https://i.postimg.cc/MGH4WX10/Orange-BGpng.png)](https://postimg.cc/ns8T2FRM)
