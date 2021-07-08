@@ -1,0 +1,1627 @@
+Age,Gender,Country,Formal Education,Position,Years Coding,Salary
+23.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,84999.5
+32.0,Male,United States of America,Master’s degree,Product/Project Manager,5.0,94999.5
+52.0,Female,United States of America,Master’s degree,Data Analyst,20.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Other,10.0,137499.5
+32.0,Female,United States of America,Master’s degree,Research Scientist,10.0,174999.5
+32.0,Female,United States of America,Doctoral degree,Product/Project Manager,20.0,94999.5
+37.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+32.0,Male,United States of America,Master’s degree,Other,5.0,174999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,112499.5
+27.0,Prefer not to say,United States of America,Master’s degree,Data Scientist,10.0,224999.5
+27.0,Male,United States of America,Master’s degree,Data Engineer,2.0,74999.5
+32.0,Female,United States of America,Master’s degree,Data Engineer,5.0,137499.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,1.0,137499.5
+32.0,Male,United States of America,Master’s degree,Business Analyst,2.0,54999.5
+37.0,Prefer not to say,United States of America,Master’s degree,Data Scientist,5.0,224999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Engineer,20.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+57.0,Male,United States of America,Bachelor’s degree,Software Engineer,20.0,174999.5
+47.0,Female,United States of America,Master’s degree,Statistician,20.0,224999.5
+32.0,Male,United States of America,I prefer not to answer,Data Analyst,5.0,54999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+23.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,74999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+23.0,Male,United States of America,Master’s degree,Business Analyst,1.0,64999.5
+57.0,Male,United States of America,Doctoral degree,Other,5.0,12499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,64999.5
+42.0,Male,United States of America,Professional degree,Statistician,20.0,94999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,20.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,54999.5
+47.0,Male,United States of America,Master’s degree,Other,10.0,224999.5
+32.0,Female,United States of America,Bachelor’s degree,Data Analyst,2.0,74999.5
+64.5,Male,United States of America,Doctoral degree,Other,2.0,224999.5
+47.0,Male,United States of America,Master’s degree,Research Scientist,20.0,174999.5
+47.0,Male,United States of America,Master’s degree,Other,5.0,224999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,74999.5
+64.5,Male,United States of America,Master’s degree,Other,2.0,174999.5
+27.0,Male,United States of America,Master’s degree,Statistician,10.0,94999.5
+64.5,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,94999.5
+19.5,Female,United States of America,Bachelor’s degree,Software Engineer,5.0,84999.5
+27.0,Male,United States of America,Bachelor’s degree,Other,2.0,27499.5
+37.0,Male,United States of America,Doctoral degree,Data Analyst,10.0,74999.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,1.0,84999.5
+37.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,112499.5
+42.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,94999.5
+47.0,Female,United States of America,Master’s degree,Data Analyst,5.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,137499.5
+32.0,Male,United States of America,Master’s degree,Product/Project Manager,10.0,224999.5
+64.5,Male,United States of America,Master’s degree,Other,1.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,1.0,84999.5
+42.0,Male,United States of America,Professional degree,Software Engineer,2.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+27.0,Female,United States of America,Bachelor’s degree,Other,5.0,22499.5
+42.0,Female,United States of America,Bachelor’s degree,Data Analyst,2.0,64999.5
+42.0,Female,United States of America,Master’s degree,Software Engineer,5.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Statistician,20.0,74999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,2.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,94999.5
+32.0,Male,United States of America,Master’s degree,Research Scientist,10.0,224999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,1.0,137499.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,2.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,274999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,94999.5
+27.0,Female,United States of America,Bachelor’s degree,Business Analyst,1.0,94999.5
+32.0,Male,United States of America,Bachelor’s degree,Other,10.0,137499.5
+42.0,Male,United States of America,Doctoral degree,Other,20.0,400000.0
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,84999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,20.0,174999.5
+64.5,Male,United States of America,Doctoral degree,Data Scientist,5.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,2.0,94999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+32.0,Female,United States of America,Doctoral degree,Research Scientist,10.0,137499.5
+57.0,Female,United States of America,Master’s degree,Product/Project Manager,1.0,137499.5
+32.0,Female,United States of America,Doctoral degree,Research Scientist,10.0,54999.5
+47.0,Male,United States of America,Master’s degree,Other,20.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,74999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,10.0,64999.5
+19.5,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,54999.5
+37.0,Female,United States of America,Doctoral degree,Other,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+47.0,Male,United States of America,Master’s degree,Other,2.0,224999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+64.5,Male,United States of America,Doctoral degree,Business Analyst,20.0,137499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+27.0,Female,United States of America,Doctoral degree,Data Engineer,10.0,74999.5
+32.0,Male,United States of America,Bachelor’s degree,Other,20.0,74999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+47.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,224999.5
+42.0,Female,United States of America,Bachelor’s degree,DBA/Database Engineer,5.0,64999.5
+47.0,Male,United States of America,Master’s degree,Software Engineer,5.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,54999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+32.0,Female,United States of America,Doctoral degree,Research Scientist,10.0,54999.5
+37.0,Female,United States of America,Master’s degree,Statistician,10.0,112499.5
+42.0,Female,United States of America,Master’s degree,Software Engineer,2.0,44999.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+52.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,2.0,137499.5
+32.0,Female,United States of America,Some college/university study without earning a bachelor’s degree,Business Analyst,1.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+37.0,Male,United States of America,Master’s degree,Other,10.0,137499.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,10.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+42.0,Female,United States of America,Master’s degree,Software Engineer,1.0,12499.5
+52.0,Female,United States of America,Master’s degree,Product/Project Manager,10.0,44999.5
+42.0,Male,United States of America,Master’s degree,Statistician,10.0,112499.5
+23.0,Female,United States of America,Master’s degree,Other,2.0,44999.5
+32.0,Female,United States of America,Bachelor’s degree,Other,2.0,74999.5
+23.0,Male,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+57.0,Male,United States of America,Master’s degree,Data Scientist,10.0,274999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,54999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,174999.5
+37.0,Male,United States of America,Doctoral degree,Other,10.0,174999.5
+42.0,Male,United States of America,Master’s degree,Data Engineer,5.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,224999.5
+47.0,Male,United States of America,Master’s degree,Software Engineer,20.0,137499.5
+42.0,Male,United States of America,Master’s degree,Other,10.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+37.0,Male,United States of America,Master’s degree,Research Scientist,5.0,137499.5
+64.5,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,112499.5
+32.0,Female,United States of America,Bachelor’s degree,Data Scientist,2.0,84999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,84999.5
+37.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,400000.0
+37.0,Female,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+23.0,Female,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+47.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+52.0,Male,United States of America,Master’s degree,Software Engineer,10.0,174999.5
+47.0,Male,United States of America,Doctoral degree,Data Analyst,20.0,112499.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,20.0,137499.5
+52.0,Male,United States of America,Master’s degree,Software Engineer,2.0,174999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+47.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,274999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+27.0,Male,United States of America,Master’s degree,DBA/Database Engineer,2.0,64999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,174999.5
+64.5,Male,United States of America,Master’s degree,Business Analyst,10.0,94999.5
+57.0,Prefer not to say,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+19.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Analyst,1.0,84999.5
+42.0,Female,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+57.0,Male,United States of America,Master’s degree,Other,20.0,274999.5
+37.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Product/Project Manager,1.0,112499.5
+23.0,Male,United States of America,Master’s degree,Business Analyst,5.0,64999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+52.0,Male,United States of America,Master’s degree,Data Scientist,20.0,224999.5
+42.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,1.0,34999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,2.0,74999.5
+32.0,Female,United States of America,Bachelor’s degree,Data Analyst,10.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Engineer,10.0,112499.5
+37.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,5.0,1499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,54999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,10.0,112499.5
+37.0,Female,United States of America,Some college/university study without earning a bachelor’s degree,Data Analyst,2.0,74999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,5.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,5.0,137499.5
+64.5,Male,United States of America,Master’s degree,Data Engineer,5.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,224999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,5.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,1.0,12499.5
+27.0,Male,United States of America,Master’s degree,Data Engineer,5.0,8749.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,74999.5
+47.0,Male,United States of America,Master’s degree,Data Engineer,20.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,94999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,44999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,274999.5
+37.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+64.5,Male,United States of America,Doctoral degree,Research Scientist,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,274999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+37.0,Female,United States of America,Professional degree,Other,20.0,224999.5
+32.0,Female,United States of America,Doctoral degree,Research Scientist,20.0,94999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+27.0,Female,United States of America,Doctoral degree,Software Engineer,10.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,44999.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+47.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,64999.5
+23.0,Female,United States of America,Bachelor’s degree,Software Engineer,10.0,84999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,74999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+32.0,Female,United States of America,Master’s degree,Business Analyst,10.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,400000.0
+32.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Analyst,5.0,174999.5
+64.5,Male,United States of America,Master’s degree,Software Engineer,2.0,44999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+37.0,Female,United States of America,Master’s degree,Data Scientist,20.0,112499.5
+37.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,112499.5
+19.5,Female,United States of America,Bachelor’s degree,Research Scientist,2.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Data Analyst,5.0,94999.5
+32.0,Male,United States of America,Doctoral degree,Data Engineer,10.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,112499.5
+27.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+32.0,Prefer not to say,United States of America,Bachelor’s degree,Business Analyst,5.0,84999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,44999.5
+52.0,Male,United States of America,Doctoral degree,Data Scientist,1.0,54999.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,20.0,174999.5
+57.0,Male,United States of America,Master’s degree,Research Scientist,20.0,74999.5
+64.5,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+37.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,54999.5
+27.0,Male,United States of America,Master’s degree,Data Engineer,5.0,112499.5
+42.0,Female,United States of America,Bachelor’s degree,Business Analyst,2.0,3499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,1.0,64999.5
+32.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+42.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,84999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,44999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,94999.5
+57.0,Male,United States of America,Professional degree,DBA/Database Engineer,20.0,224999.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,34999.5
+37.0,Female,United States of America,Doctoral degree,Research Scientist,5.0,64999.5
+32.0,Male,United States of America,Master’s degree,Other,20.0,94999.5
+47.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,1.0,84999.5
+27.0,Female,United States of America,Doctoral degree,Other,20.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+27.0,Male,United States of America,Master’s degree,Business Analyst,1.0,64999.5
+37.0,Female,United States of America,Doctoral degree,Research Scientist,10.0,74999.5
+47.0,Male,United States of America,Master’s degree,Product/Project Manager,10.0,224999.5
+52.0,Female,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+42.0,Prefer not to say,United States of America,Doctoral degree,Other,10.0,224999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,64999.5
+27.0,Male,United States of America,Master’s degree,Business Analyst,1.0,84999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,54999.5
+42.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,5.0,174999.5
+52.0,Male,United States of America,Doctoral degree,Software Engineer,5.0,137499.5
+32.0,Prefer not to say,United States of America,Doctoral degree,Other,10.0,64999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+37.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,1.0,74999.5
+32.0,Male,United States of America,Master’s degree,Business Analyst,1.0,74999.5
+52.0,Male,United States of America,Bachelor’s degree,Data Engineer,20.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Engineer,1.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+47.0,Male,United States of America,Master’s degree,Product/Project Manager,10.0,112499.5
+42.0,Male,United States of America,Master’s degree,Other,20.0,224999.5
+37.0,Male,United States of America,Professional degree,Other,5.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Business Analyst,2.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,10.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,10.0,174999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+32.0,Prefer to self-describe,United States of America,Bachelor’s degree,Data Scientist,5.0,174999.5
+47.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,10.0,54999.5
+42.0,Male,United States of America,Doctoral degree,Data Analyst,5.0,54999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,64999.5
+52.0,Male,United States of America,Master’s degree,Data Analyst,1.0,94999.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+42.0,Female,United States of America,Master’s degree,Other,1.0,22499.5
+23.0,Male,United States of America,Bachelor’s degree,Other,5.0,44999.5
+47.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,174999.5
+37.0,Male,United States of America,Bachelor’s degree,Other,20.0,224999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,34999.5
+32.0,Female,United States of America,Bachelor’s degree,Data Analyst,1.0,84999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,94999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,64999.5
+37.0,Male,United States of America,Bachelor’s degree,Data Engineer,10.0,112499.5
+47.0,Male,United States of America,Doctoral degree,Data Analyst,20.0,74999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,274999.5
+32.0,Male,United States of America,Master’s degree,Other,5.0,94999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,64999.5
+23.0,Male,United States of America,Professional degree,Data Scientist,2.0,137499.5
+37.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,400000.0
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,10.0,94999.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,224999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,84999.5
+42.0,Male,United States of America,Master’s degree,Data Engineer,10.0,137499.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+47.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,137499.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,5.0,400000.0
+32.0,Female,United States of America,Master’s degree,Data Analyst,10.0,112499.5
+42.0,Male,United States of America,Master’s degree,Other,5.0,274999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,274999.5
+47.0,Male,United States of America,Master’s degree,Software Engineer,5.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Other,5.0,84999.5
+32.0,Male,United States of America,Master’s degree,Research Scientist,10.0,137499.5
+23.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Engineer,5.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,10.0,137499.5
+52.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,174999.5
+47.0,Male,United States of America,Master’s degree,Other,2.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,274999.5
+42.0,Female,United States of America,Master’s degree,Data Scientist,20.0,112499.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Business Analyst,1.0,94999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,1.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+19.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Analyst,2.0,44999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Engineer,5.0,74999.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,112499.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,5.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,74999.5
+42.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,10.0,274999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,54999.5
+42.0,Male,United States of America,Master’s degree,Business Analyst,5.0,112499.5
+57.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,74999.5
+47.0,Female,United States of America,Bachelor’s degree,Product/Project Manager,1.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+42.0,Male,United States of America,Master’s degree,Data Analyst,2.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+64.5,Male,United States of America,Master’s degree,Product/Project Manager,10.0,174999.5
+37.0,Male,United States of America,Doctoral degree,Software Engineer,10.0,112499.5
+32.0,Female,United States of America,Master’s degree,Research Scientist,5.0,44999.5
+47.0,Male,United States of America,Master’s degree,Business Analyst,20.0,44999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Other,1.0,44999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,94999.5
+47.0,Female,United States of America,Bachelor’s degree,Other,1.0,34999.5
+42.0,Male,United States of America,Master’s degree,Business Analyst,10.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+37.0,Female,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,10.0,137499.5
+47.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,94999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,224999.5
+32.0,Male,United States of America,Master’s degree,Other,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Engineer,10.0,174999.5
+42.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Business Analyst,5.0,137499.5
+47.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Scientist,10.0,400000.0
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+23.0,Male,United States of America,Master’s degree,Data Analyst,2.0,54999.5
+23.0,Female,United States of America,Master’s degree,Research Scientist,5.0,34999.5
+42.0,Prefer not to say,United States of America,Master’s degree,Software Engineer,10.0,400000.0
+47.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,224999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,10.0,224999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+32.0,Female,United States of America,Master’s degree,Data Engineer,10.0,137499.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,174999.5
+42.0,Male,United States of America,Bachelor’s degree,Software Engineer,20.0,274999.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+27.0,Female,United States of America,Master’s degree,Software Engineer,1.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,2.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,54999.5
+37.0,Male,United States of America,Master’s degree,Research Scientist,1.0,54999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+42.0,Male,United States of America,Master’s degree,Other,2.0,224999.5
+42.0,Male,United States of America,Master’s degree,Business Analyst,5.0,84999.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,112499.5
+57.0,Male,United States of America,Doctoral degree,Research Scientist,1.0,64999.5
+27.0,Male,United States of America,Bachelor’s degree,Other,1.0,54999.5
+52.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,10.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+42.0,Male,United States of America,Professional degree,Data Scientist,5.0,224999.5
+52.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,5.0,84999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,224999.5
+52.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+52.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,5.0,74999.5
+37.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+47.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,112499.5
+42.0,Male,United States of America,Master’s degree,Other,2.0,224999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,5.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,94999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,94999.5
+37.0,Prefer not to say,United States of America,Some college/university study without earning a bachelor’s degree,Product/Project Manager,1.0,44999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Engineer,20.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+57.0,Male,United States of America,Master’s degree,Business Analyst,5.0,54999.5
+32.0,Male,United States of America,Professional degree,Other,1.0,44999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,64999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,74999.5
+32.0,Male,United States of America,Doctoral degree,Statistician,5.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+37.0,Male,United States of America,Master’s degree,Other,20.0,400000.0
+37.0,Male,United States of America,Doctoral degree,Other,10.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,2.0,84999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,1.0,174999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+32.0,Male,United States of America,Doctoral degree,Data Engineer,5.0,400000.0
+32.0,Female,United States of America,Master’s degree,Product/Project Manager,10.0,137499.5
+32.0,Male,United States of America,Master’s degree,Other,10.0,74999.5
+37.0,Male,United States of America,Bachelor’s degree,Other,2.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+57.0,Female,United States of America,Bachelor’s degree,Product/Project Manager,5.0,112499.5
+27.0,Male,United States of America,Doctoral degree,Other,1.0,74999.5
+52.0,Male,United States of America,Master’s degree,Data Analyst,10.0,137499.5
+19.5,Male,United States of America,Bachelor’s degree,Business Analyst,10.0,84999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,10.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Statistician,20.0,94999.5
+52.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,224999.5
+32.0,Male,United States of America,Bachelor’s degree,Other,10.0,274999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,224999.5
+32.0,Male,United States of America,Bachelor’s degree,Statistician,5.0,64999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,84999.5
+32.0,Male,United States of America,Doctoral degree,Other,5.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,137499.5
+27.0,Female,United States of America,Doctoral degree,Research Scientist,2.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,400000.0
+32.0,Male,United States of America,Master’s degree,Other,20.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,112499.5
+23.0,Male,United States of America,Bachelor’s degree,Business Analyst,1.0,84999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,2.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,84999.5
+47.0,Male,United States of America,I prefer not to answer,Product/Project Manager,1.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,74999.5
+32.0,Prefer not to say,United States of America,Master’s degree,Product/Project Manager,5.0,137499.5
+27.0,Male,United States of America,Master’s degree,Other,2.0,84999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,20.0,112499.5
+37.0,Male,United States of America,Master’s degree,Research Scientist,10.0,400000.0
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,2.0,94999.5
+27.0,Prefer not to say,United States of America,Bachelor’s degree,Research Scientist,20.0,174999.5
+27.0,Female,United States of America,Master’s degree,Other,10.0,400000.0
+32.0,Male,United States of America,Master’s degree,Data Analyst,2.0,54999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,10.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Engineer,2.0,64999.5
+47.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,224999.5
+47.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,174999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+57.0,Male,United States of America,Master’s degree,Research Scientist,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Software Engineer,10.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,174999.5
+27.0,Female,United States of America,Bachelor’s degree,Other,1.0,34999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,5.0,64999.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,2.0,224999.5
+37.0,Female,United States of America,Bachelor’s degree,Data Analyst,1.0,34999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,137499.5
+52.0,Male,United States of America,Master’s degree,Data Engineer,2.0,274999.5
+32.0,Male,United States of America,Master’s degree,Other,10.0,84999.5
+27.0,Female,United States of America,Master’s degree,Software Engineer,5.0,6249.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Bachelor’s degree,Business Analyst,1.0,174999.5
+52.0,Male,United States of America,Bachelor’s degree,Data Analyst,10.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,74999.5
+23.0,Female,United States of America,Master’s degree,Research Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,64999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,174999.5
+52.0,Male,United States of America,Master’s degree,Other,20.0,174999.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,2.0,84999.5
+27.0,Female,United States of America,Master’s degree,Research Scientist,2.0,44999.5
+32.0,Prefer to self-describe,United States of America,Master’s degree,Other,20.0,74999.5
+37.0,Male,United States of America,Master’s degree,Research Scientist,5.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,137499.5
+47.0,Male,United States of America,Master’s degree,Software Engineer,20.0,224999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,224999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,112499.5
+47.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Scientist,5.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+64.5,Male,United States of America,Bachelor’s degree,Other,2.0,22499.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+52.0,Male,United States of America,Master’s degree,Other,2.0,224999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,137499.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,20.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+52.0,Male,United States of America,Bachelor’s degree,Other,10.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+47.0,Male,United States of America,Master’s degree,Business Analyst,20.0,64999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,64999.5
+42.0,Female,United States of America,Master’s degree,Other,5.0,27499.5
+32.0,Male,United States of America,Bachelor’s degree,Other,5.0,137499.5
+19.5,Female,United States of America,Master’s degree,Data Analyst,5.0,54999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,74999.5
+27.0,Female,United States of America,Master’s degree,Statistician,5.0,84999.5
+27.0,Male,United States of America,Master’s degree,Other,5.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,137499.5
+37.0,Female,United States of America,Master’s degree,Research Scientist,10.0,137499.5
+52.0,Female,United States of America,Doctoral degree,Product/Project Manager,5.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+37.0,Male,United States of America,Master’s degree,Business Analyst,20.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Other,5.0,112499.5
+37.0,Female,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,10.0,137499.5
+42.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,2.0,64999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+64.5,Male,United States of America,Bachelor’s degree,Business Analyst,2.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+42.0,Male,United States of America,Professional degree,Research Scientist,20.0,112499.5
+64.5,Male,United States of America,Master’s degree,Data Engineer,5.0,112499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+57.0,Male,United States of America,Master’s degree,Data Engineer,10.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Engineer,5.0,94999.5
+57.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,64999.5
+37.0,Female,United States of America,Doctoral degree,Product/Project Manager,20.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+27.0,Male,United States of America,Master’s degree,Other,2.0,27499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,400000.0
+27.0,Male,United States of America,Master’s degree,Business Analyst,2.0,74999.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,74999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Statistician,5.0,54999.5
+52.0,Female,United States of America,Master’s degree,Other,20.0,174999.5
+57.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Statistician,10.0,112499.5
+47.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,112499.5
+52.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,10.0,74999.5
+52.0,Male,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Female,United States of America,Master’s degree,Data Engineer,5.0,54999.5
+32.0,Male,United States of America,Bachelor’s degree,Other,10.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,137499.5
+52.0,Male,United States of America,Master’s degree,Product/Project Manager,5.0,112499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+32.0,Female,United States of America,Master’s degree,Software Engineer,5.0,137499.5
+42.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+42.0,Prefer not to say,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+52.0,Male,United States of America,Master’s degree,Software Engineer,10.0,174999.5
+42.0,Male,United States of America,Professional degree,Other,20.0,224999.5
+37.0,Male,United States of America,Master’s degree,Other,10.0,174999.5
+42.0,Female,United States of America,Master’s degree,Data Scientist,20.0,224999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,2.0,64999.5
+52.0,Male,United States of America,Master’s degree,Product/Project Manager,5.0,137499.5
+27.0,Male,United States of America,Master’s degree,Business Analyst,5.0,84999.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,5.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,94999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,94999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,137499.5
+37.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Engineer,20.0,224999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,2.0,74999.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,5.0,94999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,1.0,54999.5
+37.0,Male,United States of America,Doctoral degree,Other,20.0,54999.5
+32.0,Male,United States of America,Doctoral degree,Other,5.0,174999.5
+42.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+32.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Scientist,10.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,84999.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,20.0,274999.5
+42.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,174999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,1.0,84999.5
+37.0,Female,United States of America,Master’s degree,Research Scientist,10.0,3499.5
+27.0,Female,United States of America,Master’s degree,Research Scientist,2.0,74999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,2.0,174999.5
+42.0,Male,United States of America,Bachelor’s degree,Data Analyst,20.0,137499.5
+52.0,Female,United States of America,Doctoral degree,Software Engineer,20.0,137499.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,5.0,94999.5
+47.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,174999.5
+52.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+23.0,Female,United States of America,Bachelor’s degree,Software Engineer,5.0,94999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,2.0,54999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Female,United States of America,Bachelor’s degree,Data Analyst,2.0,112499.5
+32.0,Male,United States of America,Master’s degree,Other,2.0,84999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Engineer,10.0,400000.0
+47.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,84999.5
+37.0,Male,United States of America,Master’s degree,Data Engineer,2.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,224999.5
+32.0,Prefer to self-describe,United States of America,Master’s degree,Software Engineer,10.0,6249.5
+47.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Statistician,10.0,174999.5
+32.0,Prefer to self-describe,United States of America,Master’s degree,Data Scientist,20.0,112499.5
+64.5,Male,United States of America,Master’s degree,Other,1.0,84999.5
+47.0,Female,United States of America,Some college/university study without earning a bachelor’s degree,Business Analyst,20.0,112499.5
+27.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,44999.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,20.0,112499.5
+52.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+47.0,Male,United States of America,Master’s degree,Research Scientist,20.0,400000.0
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+37.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,274999.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,2.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+57.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+32.0,Male,United States of America,Bachelor’s degree,Other,5.0,64999.5
+37.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,20.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Product/Project Manager,5.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,224999.5
+57.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,DBA/Database Engineer,2.0,174999.5
+64.5,Male,United States of America,Professional degree,Data Scientist,20.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,224999.5
+42.0,Male,United States of America,Doctoral degree,Data Analyst,20.0,274999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,74999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,20.0,224999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,2.0,112499.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,54999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,10.0,112499.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,2.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,112499.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,74999.5
+52.0,Male,United States of America,Master’s degree,Other,1.0,44999.5
+47.0,Female,United States of America,Bachelor’s degree,Data Analyst,20.0,137499.5
+52.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+37.0,Male,United States of America,Master’s degree,Software Engineer,1.0,224999.5
+27.0,Male,United States of America,Doctoral degree,Statistician,10.0,64999.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,34999.5
+42.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,224999.5
+47.0,Male,United States of America,Master’s degree,Research Scientist,20.0,224999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,112499.5
+27.0,Male,United States of America,Doctoral degree,Other,5.0,27499.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,112499.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,10.0,74999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,137499.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,10.0,94999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+42.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Other,5.0,64999.5
+23.0,Male,United States of America,Bachelor’s degree,Business Analyst,2.0,44999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,174999.5
+57.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+19.5,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,2499.5
+42.0,Male,United States of America,Master’s degree,Other,5.0,112499.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+37.0,Female,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,5.0,22499.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,112499.5
+37.0,Female,United States of America,Doctoral degree,Data Analyst,10.0,74999.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,10.0,112499.5
+52.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,137499.5
+32.0,Male,United States of America,Master’s degree,Business Analyst,2.0,64999.5
+27.0,Female,United States of America,Doctoral degree,Data Scientist,5.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+47.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,1.0,94999.5
+27.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,174999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Engineer,10.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,27499.5
+32.0,Male,United States of America,Master’s degree,Other,2.0,137499.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,2.0,137499.5
+27.0,Male,United States of America,Master’s degree,Research Scientist,10.0,22499.5
+37.0,Female,United States of America,Doctoral degree,Research Scientist,10.0,22499.5
+42.0,Male,United States of America,Master’s degree,Other,20.0,12499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+52.0,Male,United States of America,Master’s degree,Software Engineer,5.0,54999.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,174999.5
+32.0,Female,United States of America,Bachelor’s degree,Data Scientist,10.0,94999.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,20.0,224999.5
+42.0,Male,United States of America,Master’s degree,Data Engineer,10.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,84999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+32.0,Female,United States of America,Master’s degree,Business Analyst,1.0,22499.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,224999.5
+52.0,Male,United States of America,Master’s degree,Business Analyst,5.0,34999.5
+42.0,Male,United States of America,Bachelor’s degree,Other,5.0,174999.5
+27.0,Male,United States of America,Master’s degree,Other,5.0,74999.5
+32.0,Male,United States of America,Master’s degree,Other,2.0,112499.5
+32.0,Female,United States of America,Master’s degree,Other,10.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,84999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,5.0,174999.5
+32.0,Female,United States of America,Doctoral degree,Research Scientist,5.0,44999.5
+37.0,Female,United States of America,Bachelor’s degree,Product/Project Manager,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Other,10.0,174999.5
+27.0,Male,United States of America,Master’s degree,Business Analyst,10.0,137499.5
+37.0,Male,United States of America,Professional degree,Data Scientist,10.0,174999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,64999.5
+42.0,Male,United States of America,Doctoral degree,Product/Project Manager,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,5.0,112499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,74999.5
+32.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,137499.5
+27.0,Female,United States of America,Master’s degree,Statistician,10.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+37.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,74999.5
+42.0,Male,United States of America,Bachelor’s degree,Other,2.0,84999.5
+47.0,Female,United States of America,Doctoral degree,Research Scientist,20.0,74999.5
+47.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Other,2.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,20.0,112499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,54999.5
+32.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Analyst,2.0,44999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+57.0,Male,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,84999.5
+57.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,112499.5
+37.0,Female,United States of America,Doctoral degree,Data Scientist,5.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,94999.5
+32.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,5.0,94999.5
+32.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,137499.5
+47.0,Male,United States of America,Master’s degree,Other,10.0,224999.5
+47.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,224999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,34999.5
+23.0,Female,United States of America,Bachelor’s degree,Software Engineer,2.0,74999.5
+27.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,5.0,112499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+52.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,1.0,64999.5
+32.0,Female,United States of America,Bachelor’s degree,Software Engineer,20.0,112499.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+57.0,Male,United States of America,Master’s degree,Data Analyst,20.0,112499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,34999.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,400000.0
+42.0,Male,United States of America,Bachelor’s degree,Other,5.0,12499.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,224999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,17499.5
+23.0,Male,United States of America,Bachelor’s degree,Other,5.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,84999.5
+27.0,Male,United States of America,Bachelor’s degree,Business Analyst,5.0,74999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,34999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Other,20.0,224999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,2.0,137499.5
+52.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Scientist,2.0,137499.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+52.0,Male,United States of America,Master’s degree,Data Engineer,20.0,112499.5
+52.0,Male,United States of America,Master’s degree,Research Scientist,5.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,1.0,174999.5
+32.0,Female,United States of America,Bachelor’s degree,Product/Project Manager,10.0,12499.5
+32.0,Male,United States of America,Master’s degree,Other,10.0,224999.5
+52.0,Female,United States of America,Master’s degree,Product/Project Manager,5.0,64999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+37.0,Male,United States of America,Master’s degree,Software Engineer,5.0,137499.5
+23.0,Male,United States of America,Bachelor’s degree,Other,10.0,94999.5
+37.0,Male,United States of America,Bachelor’s degree,Business Analyst,5.0,54999.5
+27.0,Male,United States of America,Master’s degree,Research Scientist,5.0,22499.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,2.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+23.0,Female,United States of America,Master’s degree,Data Scientist,5.0,34999.5
+23.0,Female,United States of America,Bachelor’s degree,Data Analyst,5.0,84999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,2.0,94999.5
+23.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,17499.5
+37.0,Female,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+32.0,Female,United States of America,Doctoral degree,Data Analyst,2.0,27499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,1.0,137499.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,2.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Other,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,5.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+23.0,Male,United States of America,Master’s degree,Research Scientist,2.0,34999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+37.0,Female,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,2.0,54999.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,2.0,84999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+37.0,Male,United States of America,Master’s degree,Business Analyst,1.0,84999.5
+37.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,2.0,2499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Other,5.0,64999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Other,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,224999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+57.0,Female,United States of America,Master’s degree,Business Analyst,20.0,274999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,2.0,94999.5
+42.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,174999.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,112499.5
+52.0,Male,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+47.0,Male,United States of America,Master’s degree,Data Engineer,5.0,224999.5
+32.0,Female,United States of America,Doctoral degree,Research Scientist,1.0,54999.5
+52.0,Male,United States of America,Doctoral degree,Product/Project Manager,2.0,94999.5
+42.0,Male,United States of America,Master’s degree,Data Analyst,2.0,84999.5
+42.0,Male,United States of America,Doctoral degree,Product/Project Manager,20.0,174999.5
+47.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,137499.5
+37.0,Prefer not to say,United States of America,Master’s degree,Data Scientist,2.0,74999.5
+57.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,10.0,34999.5
+32.0,Female,United States of America,Bachelor’s degree,Other,10.0,84999.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,224999.5
+27.0,Female,United States of America,Bachelor’s degree,Data Analyst,10.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Engineer,10.0,54999.5
+27.0,Male,United States of America,Master’s degree,Other,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Research Scientist,5.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,64999.5
+37.0,Male,United States of America,Master’s degree,DBA/Database Engineer,5.0,137499.5
+47.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,174999.5
+32.0,Female,United States of America,Doctoral degree,Other,10.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Engineer,10.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,112499.5
+37.0,Female,United States of America,Master’s degree,DBA/Database Engineer,1.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Product/Project Manager,10.0,137499.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Professional degree,Research Scientist,2.0,174999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,20.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Statistician,10.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+57.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,137499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,20.0,224999.5
+37.0,Male,United States of America,Master’s degree,Software Engineer,5.0,112499.5
+42.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,1.0,84999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,8749.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,174999.5
+37.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,10.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,10.0,174999.5
+47.0,Male,United States of America,Master’s degree,Software Engineer,2.0,274999.5
+42.0,Male,United States of America,Doctoral degree,Statistician,20.0,54999.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,10.0,84999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,112499.5
+47.0,Male,United States of America,Bachelor’s degree,Data Engineer,2.0,137499.5
+27.0,Female,United States of America,Master’s degree,Software Engineer,2.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Engineer,2.0,54999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,112499.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+23.0,Male,United States of America,Master’s degree,Research Scientist,10.0,84999.5
+47.0,Male,United States of America,Master’s degree,Business Analyst,5.0,174999.5
+32.0,Male,United States of America,Master’s degree,Research Scientist,10.0,84999.5
+52.0,Male,United States of America,Master’s degree,Data Engineer,20.0,64999.5
+52.0,Male,United States of America,Doctoral degree,Research Scientist,1.0,17499.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,54999.5
+23.0,Male,United States of America,Master’s degree,Research Scientist,5.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+37.0,Female,United States of America,Master’s degree,Data Analyst,10.0,174999.5
+47.0,Male,United States of America,Bachelor’s degree,Other,20.0,112499.5
+32.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,2.0,94999.5
+32.0,Male,United States of America,Master’s degree,Research Scientist,2.0,74999.5
+47.0,Prefer to self-describe,United States of America,Master’s degree,Other,2.0,84999.5
+42.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Business Analyst,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Other,5.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Other,2.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,44999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,54999.5
+64.5,Male,United States of America,Master’s degree,Software Engineer,5.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,112499.5
+42.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,174999.5
+47.0,Male,United States of America,Master’s degree,Other,10.0,174999.5
+47.0,Male,United States of America,Master’s degree,Software Engineer,10.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+23.0,Female,United States of America,Bachelor’s degree,Data Analyst,1.0,44999.5
+52.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,274999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+47.0,Male,United States of America,Bachelor’s degree,Business Analyst,2.0,74999.5
+32.0,Male,United States of America,Bachelor’s degree,Business Analyst,1.0,74999.5
+47.0,Female,United States of America,Master’s degree,Business Analyst,5.0,94999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,94999.5
+27.0,Female,United States of America,Master’s degree,Software Engineer,10.0,74999.5
+37.0,Female,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,137499.5
+57.0,Male,United States of America,Doctoral degree,Other,2.0,224999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,112499.5
+47.0,Male,United States of America,Bachelor’s degree,Business Analyst,1.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Statistician,10.0,84999.5
+32.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Business Analyst,5.0,112499.5
+37.0,Prefer not to say,United States of America,Bachelor’s degree,Data Analyst,5.0,112499.5
+52.0,Male,United States of America,Master’s degree,DBA/Database Engineer,20.0,224999.5
+64.5,Male,United States of America,Master’s degree,Software Engineer,2.0,112499.5
+42.0,Prefer not to say,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+64.5,Male,United States of America,Master’s degree,Software Engineer,1.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,2.0,8749.5
+37.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,2.0,22499.5
+47.0,Male,United States of America,Master’s degree,Data Engineer,20.0,174999.5
+57.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,84999.5
+42.0,Male,United States of America,Bachelor’s degree,Data Engineer,20.0,137499.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,94999.5
+27.0,Male,United States of America,Doctoral degree,Other,10.0,34999.5
+32.0,Male,United States of America,Doctoral degree,Software Engineer,10.0,112499.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,1.0,2499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,112499.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+47.0,Male,United States of America,Bachelor’s degree,Data Engineer,10.0,137499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Business Analyst,1.0,137499.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,20.0,137499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+64.5,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,94999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+19.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,5.0,8749.5
+37.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,64999.5
+52.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,94999.5
+37.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Product/Project Manager,10.0,64999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,74999.5
+37.0,Male,United States of America,Professional degree,Data Scientist,10.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,5.0,112499.5
+52.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,64999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,44999.5
+37.0,Female,United States of America,Master’s degree,Other,2.0,137499.5
+37.0,Male,United States of America,Master’s degree,Other,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,84999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+32.0,Male,United States of America,Bachelor’s degree,Other,2.0,64999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,224999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+19.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,Research Scientist,2.0,1499.5
+47.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,174999.5
+32.0,Female,United States of America,Doctoral degree,Data Analyst,5.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Engineer,5.0,112499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,174999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,1.0,44999.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,5.0,112499.5
+52.0,Male,United States of America,Bachelor’s degree,Software Engineer,20.0,174999.5
+27.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,10.0,224999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,2.0,84999.5
+57.0,Male,United States of America,Master’s degree,Other,2.0,400000.0
+57.0,Male,United States of America,Doctoral degree,Product/Project Manager,10.0,174999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,1.0,94999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+64.5,Male,United States of America,Master’s degree,Other,10.0,400000.0
+32.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Engineer,10.0,84999.5
+32.0,Female,United States of America,Bachelor’s degree,Other,2.0,54999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+52.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,112499.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,10.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+64.5,Male,United States of America,Doctoral degree,Other,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Business Analyst,10.0,174999.5
+32.0,Male,United States of America,Master’s degree,Research Scientist,10.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,2.0,174999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,112499.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,5.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+32.0,Male,United States of America,Master’s degree,Product/Project Manager,10.0,174999.5
+27.0,Male,United States of America,Doctoral degree,Software Engineer,10.0,22499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,137499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Engineer,2.0,137499.5
+52.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,5.0,94999.5
+42.0,Male,United States of America,Master’s degree,Data Analyst,5.0,94999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,224999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,84999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,274999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+42.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,94999.5
+47.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,2.0,44999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,84999.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,5.0,12499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,10.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,112499.5
+57.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,174999.5
+42.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,94999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,112499.5
+37.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,5.0,74999.5
+27.0,Female,United States of America,Master’s degree,Data Analyst,5.0,112499.5
+52.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,84999.5
+47.0,Female,United States of America,Some college/university study without earning a bachelor’s degree,Other,2.0,112499.5
+47.0,Male,United States of America,Bachelor’s degree,Other,5.0,137499.5
+37.0,Female,United States of America,Doctoral degree,Data Scientist,2.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+27.0,Female,United States of America,Master’s degree,Software Engineer,1.0,94999.5
+57.0,Female,United States of America,Master’s degree,Data Analyst,2.0,137499.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+23.0,Male,United States of America,Master’s degree,Research Scientist,2.0,12499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,64999.5
+42.0,Male,United States of America,Master’s degree,Other,5.0,64999.5
+42.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,44999.5
+47.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,274999.5
+64.5,Male,United States of America,Master’s degree,Data Engineer,10.0,112499.5
+64.5,Male,United States of America,Doctoral degree,Research Scientist,2.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,94999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,54999.5
+42.0,Female,United States of America,Master’s degree,Other,5.0,74999.5
+42.0,Male,United States of America,Master’s degree,Other,2.0,137499.5
+27.0,Male,United States of America,I prefer not to answer,Data Analyst,1.0,17499.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,112499.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+47.0,Male,United States of America,Master’s degree,Data Scientist,2.0,137499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+42.0,Female,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,74999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,64999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Engineer,20.0,174999.5
+37.0,Male,United States of America,Master’s degree,Other,10.0,174999.5
+42.0,Female,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+57.0,Female,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,44999.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,20.0,174999.5
+64.5,Male,United States of America,Doctoral degree,Research Scientist,20.0,174999.5
+27.0,Female,United States of America,Doctoral degree,Research Scientist,10.0,54999.5
+37.0,Male,United States of America,Master’s degree,Other,2.0,84999.5
+27.0,Female,United States of America,Master’s degree,Research Scientist,2.0,6249.5
+47.0,Male,United States of America,Doctoral degree,Other,20.0,174999.5
+23.0,Female,United States of America,Master’s degree,Data Analyst,1.0,44999.5
+37.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,174999.5
+37.0,Female,United States of America,Master’s degree,Data Analyst,10.0,137499.5
+57.0,Male,United States of America,Doctoral degree,Other,2.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+64.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,Product/Project Manager,20.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,112499.5
+42.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Other,1.0,44999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+42.0,Male,United States of America,Master’s degree,DBA/Database Engineer,10.0,94999.5
+52.0,Male,United States of America,Master’s degree,Data Scientist,2.0,84999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Master’s degree,Software Engineer,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Engineer,10.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,10.0,112499.5
+37.0,Male,United States of America,Bachelor’s degree,Data Analyst,20.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,54999.5
+47.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,6249.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+37.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,94999.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,1.0,94999.5
+27.0,Male,United States of America,Master’s degree,Other,2.0,112499.5
+47.0,Female,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,2.0,137499.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,5.0,74999.5
+64.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,5.0,174999.5
+47.0,Female,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,20.0,112499.5
+42.0,Female,United States of America,Bachelor’s degree,Business Analyst,2.0,74999.5
+47.0,Male,United States of America,Master’s degree,Product/Project Manager,1.0,112499.5
+57.0,Female,United States of America,Doctoral degree,Data Analyst,10.0,94999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,2.0,94999.5
+32.0,Male,United States of America,Master’s degree,Product/Project Manager,5.0,137499.5
+27.0,Male,United States of America,Master’s degree,Other,10.0,84999.5
+42.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,174999.5
+23.0,Male,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,10.0,54999.5
+52.0,Prefer not to say,United States of America,Doctoral degree,Data Scientist,5.0,74999.5
+42.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,224999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+42.0,Male,United States of America,Master’s degree,Other,5.0,112499.5
+27.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Scientist,10.0,174999.5
+32.0,Female,United States of America,Master’s degree,Software Engineer,5.0,84999.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,224999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,10.0,74999.5
+27.0,Male,United States of America,Master’s degree,Research Scientist,5.0,137499.5
+23.0,Male,United States of America,Master’s degree,Research Scientist,5.0,94999.5
+32.0,Male,United States of America,Master’s degree,Other,1.0,64999.5
+23.0,Male,United States of America,Master’s degree,Data Analyst,5.0,44999.5
+42.0,Female,United States of America,Doctoral degree,Research Scientist,20.0,174999.5
+47.0,Female,United States of America,Master’s degree,Data Scientist,5.0,27499.5
+47.0,Male,United States of America,Bachelor’s degree,Research Scientist,20.0,224999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,174999.5
+52.0,Male,United States of America,Master’s degree,Data Engineer,10.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Doctoral degree,Other,10.0,137499.5
+42.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,112499.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,1.0,94999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,5.0,137499.5
+27.0,Female,United States of America,Master’s degree,Business Analyst,5.0,64999.5
+37.0,Male,United States of America,Master’s degree,Other,20.0,224999.5
+37.0,Female,United States of America,Master’s degree,Data Scientist,20.0,224999.5
+32.0,Male,United States of America,Master’s degree,Product/Project Manager,5.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,112499.5
+47.0,Male,United States of America,Master’s degree,Data Engineer,10.0,174999.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,74999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+37.0,Female,United States of America,Master’s degree,Other,2.0,17499.5
+42.0,Male,United States of America,Master’s degree,Other,1.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,112499.5
+32.0,Female,United States of America,Doctoral degree,Research Scientist,10.0,44999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,137499.5
+57.0,Male,United States of America,Bachelor’s degree,Data Analyst,10.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+52.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,274999.5
+37.0,Female,United States of America,Bachelor’s degree,Other,10.0,54999.5
+52.0,Male,United States of America,Doctoral degree,Software Engineer,2.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+52.0,Male,United States of America,Master’s degree,Software Engineer,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,224999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Other,5.0,22499.5
+32.0,Male,United States of America,Bachelor’s degree,Other,5.0,94999.5
+47.0,Male,United States of America,Bachelor’s degree,DBA/Database Engineer,5.0,84999.5
+23.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,27499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,274999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,2.0,137499.5
+19.5,Male,United States of America,Professional degree,Business Analyst,20.0,137499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,44999.5
+37.0,Female,United States of America,Master’s degree,Product/Project Manager,2.0,137499.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,20.0,174999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,10.0,12499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,54999.5
+52.0,Female,United States of America,Master’s degree,Data Analyst,5.0,94999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,137499.5
+27.0,Male,United States of America,Doctoral degree,Data Analyst,10.0,64999.5
+42.0,Male,United States of America,Bachelor’s degree,Software Engineer,20.0,174999.5
+23.0,Male,United States of America,Master’s degree,Other,2.0,64999.5
+47.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,94999.5
+27.0,Female,United States of America,Master’s degree,Other,1.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,64999.5
+47.0,Male,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+42.0,Female,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,10.0,112499.5
+42.0,Male,United States of America,No formal education past high school,Software Engineer,10.0,174999.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,54999.5
+27.0,Male,United States of America,Bachelor’s degree,DBA/Database Engineer,5.0,64999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,224999.5
+32.0,Female,United States of America,Master’s degree,Product/Project Manager,10.0,74999.5
+52.0,Male,United States of America,Master’s degree,Product/Project Manager,5.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,84999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,54999.5
+32.0,Male,United States of America,Master’s degree,Other,5.0,84999.5
+32.0,Male,United States of America,Master’s degree,Data Engineer,10.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Business Analyst,2.0,112499.5
+42.0,Female,United States of America,Bachelor’s degree,Other,1.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,2.0,54999.5
+23.0,Male,United States of America,Bachelor’s degree,DBA/Database Engineer,5.0,94999.5
+42.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Analyst,20.0,112499.5
+52.0,Male,United States of America,Master’s degree,Software Engineer,1.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+42.0,Male,United States of America,Bachelor’s degree,Data Engineer,20.0,137499.5
+47.0,Male,United States of America,Master’s degree,Other,10.0,74999.5
+57.0,Male,United States of America,Bachelor’s degree,Other,2.0,17499.5
+27.0,Male,United States of America,Bachelor’s degree,Other,2.0,64999.5
+52.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,1.0,174999.5
+42.0,Male,United States of America,Bachelor’s degree,Data Engineer,10.0,112499.5
+47.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Product/Project Manager,2.0,94999.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Other,2.0,84999.5
+37.0,Male,United States of America,Master’s degree,Research Scientist,10.0,54999.5
+42.0,Male,United States of America,Master’s degree,Product/Project Manager,1.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,54999.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,20.0,274999.5
+37.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,10.0,112499.5
+47.0,Female,United States of America,Master’s degree,Other,2.0,54999.5
+47.0,Male,United States of America,Bachelor’s degree,Other,1.0,74999.5
+27.0,Male,United States of America,No formal education past high school,Software Engineer,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,224999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,10.0,84999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,112499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,64999.5
+23.0,Male,United States of America,Master’s degree,Business Analyst,2.0,64999.5
+42.0,Male,United States of America,Master’s degree,Data Analyst,2.0,64999.5
+42.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,224999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,64999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Software Engineer,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,5.0,84999.5
+57.0,Male,United States of America,Master’s degree,Other,10.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,137499.5
+57.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,224999.5
+57.0,Male,United States of America,Master’s degree,Data Scientist,20.0,54999.5
+42.0,Male,United States of America,I prefer not to answer,Other,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,20.0,137499.5
+42.0,Female,United States of America,Master’s degree,Other,1.0,54999.5
+27.0,Male,United States of America,Bachelor’s degree,Other,5.0,34999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,74999.5
+52.0,Male,United States of America,Master’s degree,Software Engineer,2.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,400000.0
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,274999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,174999.5
+42.0,Male,United States of America,Master’s degree,Research Scientist,20.0,174999.5
+64.5,Male,United States of America,Master’s degree,Software Engineer,20.0,137499.5
+27.0,Male,United States of America,Master’s degree,Other,5.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Business Analyst,5.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,64999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,84999.5
+32.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,10.0,112499.5
+42.0,Male,United States of America,Master’s degree,Other,1.0,137499.5
+37.0,Prefer not to say,United States of America,I prefer not to answer,Software Engineer,10.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,10.0,224999.5
+47.0,Male,United States of America,Master’s degree,Software Engineer,5.0,112499.5
+47.0,Male,United States of America,Master’s degree,Data Scientist,20.0,112499.5
+27.0,Female,United States of America,Some college/university study without earning a bachelor’s degree,Data Engineer,2.0,3499.5
+27.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,5.0,94999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+47.0,Male,United States of America,Doctoral degree,Statistician,5.0,74999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,64999.5
+23.0,Male,United States of America,Master’s degree,Data Analyst,2.0,54999.5
+37.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+57.0,Male,United States of America,Bachelor’s degree,Other,1.0,174999.5
+52.0,Male,United States of America,Doctoral degree,Software Engineer,5.0,137499.5
+42.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,137499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,74999.5
+27.0,Male,United States of America,Master’s degree,Other,5.0,137499.5
+37.0,Female,United States of America,Doctoral degree,Research Scientist,20.0,400000.0
+27.0,Male,United States of America,Master’s degree,Software Engineer,1.0,112499.5
+42.0,Male,United States of America,Master’s degree,Software Engineer,5.0,112499.5
+52.0,Male,United States of America,Doctoral degree,Other,5.0,274999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,5.0,94999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Engineer,2.0,54999.5
+37.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,10.0,224999.5
+37.0,Male,United States of America,Master’s degree,Software Engineer,10.0,174999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+37.0,Female,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+52.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+42.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,137499.5
+42.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Product/Project Manager,10.0,84999.5
+42.0,Female,United States of America,Master’s degree,Other,1.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+64.5,Male,United States of America,Bachelor’s degree,Product/Project Manager,2.0,274999.5
+32.0,Male,United States of America,Master’s degree,Other,5.0,84999.5
+47.0,Male,United States of America,Bachelor’s degree,Data Engineer,20.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,2.0,84999.5
+32.0,Female,United States of America,Master’s degree,Research Scientist,5.0,64999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,174999.5
+27.0,Male,United States of America,Master’s degree,Other,5.0,84999.5
+47.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,400000.0
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,112499.5
+23.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Scientist,5.0,64999.5
+37.0,Prefer not to say,United States of America,Doctoral degree,Data Scientist,5.0,137499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+32.0,Female,United States of America,Master’s degree,Data Analyst,5.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,64999.5
+52.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+27.0,Female,United States of America,Master’s degree,Software Engineer,10.0,112499.5
+52.0,Male,United States of America,Master’s degree,Data Scientist,10.0,274999.5
+47.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,3499.5
+32.0,Female,United States of America,Master’s degree,Software Engineer,5.0,64999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,224999.5
+42.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,34999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+52.0,Male,United States of America,Master’s degree,Product/Project Manager,1.0,224999.5
+52.0,Male,United States of America,Master’s degree,Software Engineer,5.0,12499.5
+64.5,Male,United States of America,Doctoral degree,Research Scientist,20.0,174999.5
+47.0,Male,United States of America,Bachelor’s degree,Other,2.0,174999.5
+57.0,Male,United States of America,Bachelor’s degree,Data Analyst,20.0,84999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,174999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,174999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,94999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,112499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,20.0,94999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,112499.5
+42.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,224999.5
+42.0,Male,United States of America,Doctoral degree,Data Analyst,5.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Research Scientist,20.0,174999.5
+23.0,Male,United States of America,Master’s degree,Business Analyst,1.0,44999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+52.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,5.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,224999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,10.0,224999.5
+42.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,44999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,84999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+32.0,Female,United States of America,Some college/university study without earning a bachelor’s degree,Other,1.0,27499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Professional degree,Data Engineer,20.0,174999.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,137499.5
+52.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,10.0,174999.5
+37.0,Female,United States of America,Doctoral degree,Product/Project Manager,10.0,74999.5
+47.0,Prefer not to say,United States of America,Bachelor’s degree,Software Engineer,20.0,112499.5
+57.0,Male,United States of America,No formal education past high school,Data Analyst,2.0,27499.5
+23.0,Female,United States of America,Bachelor’s degree,Software Engineer,5.0,84999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,174999.5
+52.0,Male,United States of America,Master’s degree,Other,20.0,112499.5
+23.0,Male,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,274999.5
+27.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,174999.5
+64.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,5.0,74999.5
+37.0,Male,United States of America,Master’s degree,Other,10.0,174999.5
+47.0,Male,United States of America,Bachelor’s degree,Other,2.0,44999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,2.0,137499.5
+52.0,Female,United States of America,Doctoral degree,Data Analyst,20.0,112499.5
+47.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Other,10.0,112499.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,84999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Engineer,10.0,112499.5
+52.0,Male,United States of America,Bachelor’s degree,DBA/Database Engineer,1.0,137499.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,44999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,20.0,224999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,20.0,400000.0
+47.0,Male,United States of America,Master’s degree,Data Analyst,1.0,84999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+37.0,Female,United States of America,Master’s degree,Data Engineer,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,2.0,112499.5
+42.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,94999.5
+42.0,Female,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,2.0,64999.5
+42.0,Male,United States of America,Master’s degree,Other,2.0,137499.5
+27.0,Female,United States of America,Master’s degree,Software Engineer,1.0,22499.5
+32.0,Male,United States of America,Master’s degree,Business Analyst,10.0,94999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,20.0,137499.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,54999.5
+27.0,Female,United States of America,Master’s degree,Other,5.0,94999.5
+32.0,Female,United States of America,Bachelor’s degree,Product/Project Manager,2.0,64999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+27.0,Female,United States of America,Bachelor’s degree,Data Analyst,5.0,84999.5
+37.0,Male,United States of America,Master’s degree,Software Engineer,2.0,174999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,64999.5
+23.0,Female,United States of America,Master’s degree,Other,1.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,20.0,224999.5
+23.0,Female,United States of America,Bachelor’s degree,Data Engineer,2.0,64999.5
+23.0,Female,United States of America,Master’s degree,Data Scientist,5.0,137499.5
+42.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,1.0,54999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,10.0,112499.5
+42.0,Female,United States of America,Master’s degree,Other,1.0,54999.5
+37.0,Female,United States of America,Some college/university study without earning a bachelor’s degree,Other,1.0,44999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,10.0,174999.5
+42.0,Male,United States of America,Doctoral degree,Other,20.0,94999.5
+37.0,Male,United States of America,Master’s degree,Software Engineer,2.0,74999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,5.0,34999.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,94999.5
+47.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Analyst,2.0,84999.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,2.0,224999.5
+47.0,Female,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,2.0,64999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,94999.5
+52.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,112499.5
+42.0,Male,United States of America,Doctoral degree,Data Analyst,10.0,112499.5
+42.0,Male,United States of America,Master’s degree,Product/Project Manager,2.0,112499.5
+42.0,Female,United States of America,Doctoral degree,Research Scientist,20.0,112499.5
+42.0,Male,United States of America,Master’s degree,Data Analyst,5.0,44999.5
+23.0,Male,United States of America,Master’s degree,Other,2.0,64999.5
+32.0,Female,United States of America,Master’s degree,Software Engineer,10.0,74999.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,5.0,94999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,94999.5
+27.0,Female,United States of America,Master’s degree,Business Analyst,10.0,174999.5
+23.0,Male,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+32.0,Female,United States of America,Bachelor’s degree,Software Engineer,1.0,84999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,84999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,400000.0
+23.0,Male,United States of America,Master’s degree,Data Engineer,2.0,54999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,1.0,64999.5
+47.0,Female,United States of America,Master’s degree,DBA/Database Engineer,10.0,137499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,112499.5
+57.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+37.0,Male,United States of America,Master’s degree,Research Scientist,10.0,174999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,84999.5
+47.0,Male,United States of America,Master’s degree,Other,2.0,27499.5
+32.0,Male,United States of America,Doctoral degree,Software Engineer,2.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Other,2.0,44999.5
+27.0,Male,United States of America,Doctoral degree,Data Analyst,2.0,12499.5
+23.0,Male,United States of America,Bachelor’s degree,Business Analyst,5.0,54999.5
+19.5,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,6249.5
+47.0,Male,United States of America,Master’s degree,Software Engineer,20.0,112499.5
+32.0,Male,United States of America,Master’s degree,Business Analyst,10.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,74999.5
+27.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Other,5.0,44999.5
+42.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,94999.5
+47.0,Male,United States of America,Master’s degree,Product/Project Manager,1.0,94999.5
+37.0,Male,United States of America,Master’s degree,Other,20.0,137499.5
+27.0,Male,United States of America,Master’s degree,Other,1.0,64999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,5.0,54999.5
+37.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,94999.5
+52.0,Male,United States of America,Bachelor’s degree,Product/Project Manager,5.0,54999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,10.0,74999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,1.0,84999.5
+32.0,Female,United States of America,Master’s degree,Other,2.0,74999.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,400000.0
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,64999.5
+64.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,DBA/Database Engineer,5.0,174999.5
+27.0,Male,United States of America,Professional degree,Software Engineer,5.0,224999.5
+42.0,Female,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,112499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,54999.5
+32.0,Female,United States of America,Master’s degree,Software Engineer,10.0,84999.5
+23.0,Female,United States of America,Master’s degree,Data Analyst,5.0,64999.5
+27.0,Female,United States of America,Master’s degree,Business Analyst,5.0,74999.5
+42.0,Male,United States of America,Bachelor’s degree,Data Analyst,1.0,64999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,2.0,112499.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+19.5,Male,United States of America,Bachelor’s degree,Software Engineer,5.0,74999.5
+42.0,Female,United States of America,Doctoral degree,Research Scientist,20.0,6249.5
+42.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Product/Project Manager,2.0,174999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,54999.5
+27.0,Female,United States of America,Master’s degree,Data Engineer,1.0,64999.5
+37.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+42.0,Female,United States of America,Doctoral degree,Other,10.0,44999.5
+32.0,Male,United States of America,Bachelor’s degree,Other,10.0,174999.5
+57.0,Male,United States of America,Master’s degree,Product/Project Manager,20.0,54999.5
+37.0,Male,United States of America,Master’s degree,Data Engineer,5.0,274999.5
+23.0,Male,United States of America,Master’s degree,Software Engineer,2.0,174999.5
+32.0,Male,United States of America,Master’s degree,Data Engineer,2.0,84999.5
+64.5,Male,United States of America,Some college/university study without earning a bachelor’s degree,DBA/Database Engineer,10.0,54999.5
+27.0,Male,United States of America,Master’s degree,Software Engineer,2.0,137499.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,5.0,84999.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Engineer,5.0,84999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,2.0,6249.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,5.0,74999.5
+32.0,Male,United States of America,Master’s degree,Research Scientist,10.0,224999.5
+23.0,Male,United States of America,Master’s degree,Business Analyst,2.0,64999.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+19.5,Male,United States of America,Bachelor’s degree,Research Scientist,5.0,54999.5
+27.0,Male,United States of America,Master’s degree,Other,5.0,17499.5
+42.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Engineer,1.0,17499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,22499.5
+52.0,Female,United States of America,Master’s degree,Data Analyst,20.0,112499.5
+23.0,Male,United States of America,Master’s degree,Data Analyst,5.0,84999.5
+42.0,Male,United States of America,Master’s degree,Other,20.0,224999.5
+23.0,Male,United States of America,Bachelor’s degree,Business Analyst,5.0,64999.5
+32.0,Male,United States of America,Bachelor’s degree,Data Analyst,5.0,94999.5
+32.0,Female,United States of America,Bachelor’s degree,Other,1.0,137499.5
+32.0,Male,United States of America,Professional degree,Data Scientist,20.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,2.0,94999.5
+57.0,Male,United States of America,Bachelor’s degree,Data Analyst,10.0,174999.5
+42.0,Male,United States of America,Master’s degree,Product/Project Manager,10.0,137499.5
+57.0,Male,United States of America,Master’s degree,Other,20.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Engineer,10.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Data Scientist,5.0,137499.5
+27.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,84999.5
+27.0,Male,United States of America,Master’s degree,Statistician,5.0,74999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,2.0,44999.5
+42.0,Female,United States of America,Master’s degree,Other,1.0,34999.5
+32.0,Male,United States of America,Master’s degree,DBA/Database Engineer,1.0,54999.5
+32.0,Male,United States of America,Professional degree,Data Analyst,5.0,112499.5
+47.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Scientist,5.0,2499.5
+27.0,Female,United States of America,Master’s degree,Data Engineer,10.0,174999.5
+27.0,Male,United States of America,Bachelor’s degree,Other,2.0,84999.5
+37.0,Male,United States of America,Master’s degree,Product/Project Manager,5.0,84999.5
+37.0,Male,United States of America,Master’s degree,DBA/Database Engineer,5.0,84999.5
+42.0,Male,United States of America,Master’s degree,Other,20.0,274999.5
+37.0,Male,United States of America,Master’s degree,Other,5.0,84999.5
+27.0,Male,United States of America,Master’s degree,Research Scientist,5.0,137499.5
+32.0,Female,United States of America,Doctoral degree,Product/Project Manager,5.0,112499.5
+32.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Scientist,5.0,174999.5
+32.0,Female,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+57.0,Male,United States of America,Doctoral degree,Research Scientist,1.0,64999.5
+27.0,Male,United States of America,Bachelor’s degree,Other,5.0,54999.5
+37.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Data Analyst,1.0,44999.5
+23.0,Male,United States of America,Master’s degree,Research Scientist,5.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,174999.5
+32.0,Male,United States of America,Master’s degree,Software Engineer,2.0,94999.5
+32.0,Male,United States of America,Doctoral degree,Data Analyst,5.0,64999.5
+27.0,Male,United States of America,Master’s degree,Research Scientist,10.0,84999.5
+47.0,Female,United States of America,Master’s degree,Other,10.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,10.0,112499.5
+47.0,Male,United States of America,Doctoral degree,Other,2.0,400000.0
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,1.0,64999.5
+37.0,Male,United States of America,Some college/university study without earning a bachelor’s degree,Product/Project Manager,5.0,74999.5
+47.0,Male,United States of America,Professional degree,Software Engineer,1.0,137499.5
+37.0,Male,United States of America,Bachelor’s degree,Data Engineer,10.0,174999.5
+42.0,Female,United States of America,Master’s degree,Data Engineer,20.0,137499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,224999.5
+52.0,Female,United States of America,Master’s degree,Business Analyst,2.0,112499.5
+47.0,Female,United States of America,Bachelor’s degree,Software Engineer,20.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,2.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Analyst,2.0,84999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,22499.5
+27.0,Male,United States of America,Master’s degree,Data Analyst,5.0,34999.5
+27.0,Female,United States of America,Master’s degree,Data Scientist,2.0,74999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,1.0,44999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,12499.5
+32.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,112499.5
+32.0,Female,United States of America,Doctoral degree,Data Scientist,10.0,137499.5
+27.0,Male,United States of America,Doctoral degree,Research Scientist,10.0,27499.5
+42.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Master’s degree,Data Scientist,10.0,174999.5
+37.0,Male,United States of America,Bachelor’s degree,Data Scientist,2.0,112499.5
+32.0,Male,United States of America,Doctoral degree,Data Analyst,2.0,112499.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,112499.5
+32.0,Male,United States of America,Master’s degree,Other,2.0,174999.5
+47.0,Male,United States of America,Master’s degree,Data Analyst,20.0,94999.5
+37.0,Prefer not to say,United States of America,Some college/university study without earning a bachelor’s degree,Software Engineer,10.0,224999.5
+23.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,84999.5
+32.0,Male,United States of America,I prefer not to answer,Software Engineer,5.0,112499.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,74999.5
+37.0,Male,United States of America,Professional degree,Data Scientist,10.0,174999.5
+47.0,Female,United States of America,Doctoral degree,Data Analyst,20.0,8749.5
+23.0,Male,United States of America,Master’s degree,Data Scientist,2.0,112499.5
+27.0,Male,United States of America,Master’s degree,Product/Project Manager,1.0,84999.5
+27.0,Male,United States of America,Bachelor’s degree,Data Analyst,2.0,74999.5
+32.0,Male,United States of America,Master’s degree,Data Scientist,10.0,84999.5
+27.0,Female,United States of America,Master’s degree,Research Scientist,5.0,94999.5
+32.0,Male,United States of America,Bachelor’s degree,Software Engineer,10.0,94999.5
+27.0,Male,United States of America,Master’s degree,Data Scientist,5.0,44999.5
+27.0,Male,United States of America,Master’s degree,Statistician,5.0,84999.5
+37.0,Male,United States of America,Doctoral degree,Other,20.0,112499.5
+19.5,Male,United States of America,Master’s degree,Data Scientist,10.0,64999.5
+37.0,Male,United States of America,Master’s degree,Data Analyst,20.0,137499.5
+27.0,Male,United States of America,Master’s degree,Other,2.0,84999.5
+23.0,Male,United States of America,Bachelor’s degree,Software Engineer,2.0,112499.5
+47.0,Male,United States of America,Master’s degree,Data Scientist,20.0,137499.5
+32.0,Male,United States of America,Doctoral degree,Data Scientist,1.0,44999.5
