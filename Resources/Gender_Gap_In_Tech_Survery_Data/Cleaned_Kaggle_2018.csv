@@ -1,4 +1,4 @@
-Age,Gender,Country,Formal Education,Position,Years Coding,Salary
+Age,Gender,Country,Formal_Education,Position,Years_Coding,Salary
 23.0,Female,United States of America,Bachelor’s degree,Data Scientist,5.0,84999.5
 32.0,Male,United States of America,Master’s degree,Product/Project Manager,5.0,94999.5
 52.0,Female,United States of America,Master’s degree,Data Analyst,20.0,137499.5

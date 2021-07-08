@@ -1,4 +1,4 @@
-Age,Gender,Country,Formal Education,Position,Years Coding,Salary
+Age,Gender,Country,Formal_Education,Position,Years_Coding,Salary
 32.0,Man,United States of America,Master’s degree,Data Engineer,10.0,112499.5
 32.0,Man,United States of America,Master’s degree,Data Scientist,10.0,137499.5
 37.0,Man,United States of America,Doctoral degree,Research Scientist,2.0,34999.5
