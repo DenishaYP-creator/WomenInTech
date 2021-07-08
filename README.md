@@ -24,7 +24,7 @@ There is NO difference between the % in the workforce and (gap in salary when co
 ## Objectives
 In Our analysis, we will compare the 2020 survey results against the previous two years surveys to determine the key differences between men & women within the dataset in order to reject the null hypythosis and conclude that gender and paygap imbalance exists.  Furthermore, we will seek to understand the state of Women in Technology roles. We will utilize a Supervised Machine learning algorithm to predict salary of women in ML & DA role based on years of experience.
 
-**Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors.
+**Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the difference that exist in Technology roles and what impacts experience, formal education and years of coding have on salary for women when compare to men. 
 
 **Data Source Details:**
 
