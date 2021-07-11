@@ -6,7 +6,6 @@ from flask_restful import Resource, Api
 app = Flask(__name__)  # Create an app Instance of the Flask class
 
 # ***REMOVE ONCE WE HAVE A DB
-gender_table = []
 
 # MAIN HOMEPAGE
 
