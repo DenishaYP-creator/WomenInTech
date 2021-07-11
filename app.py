@@ -19,10 +19,4 @@ def index():
 # use route() decorator to tell Flask what URL should trigger our function.
 
 
-@app.route("/hello/")
-def hello_world():  # Function returns the message we want to display in the user’s browser.
-    return "<p>Hello, World!</p>"
-# END OF TEST PAGE------------------------------------
-
-
 app.run(port=500)
