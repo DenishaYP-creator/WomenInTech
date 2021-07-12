@@ -11,20 +11,20 @@
 
 According to the US Bureau of Labor Statistics, "Employment in computer and information technology occupations is projected to grow faster than the average for all occupations."
 
-**Problem Statement:** Despite the growth in Technology jobs the number of Women in the United States that are occupying roles in Technology is significantly less than their male counterparts. When we look at the women's representation in the Data Science field the gender imbalance still remains to be true. 
+**Problem Statement:** Despite the growth in Technology jobs the number of Women in the United States that are occupying roles in Technology is significantly less than their male counterparts. When we look at the women's representation in the Technology roles specifically women in Software Engineering, Data Science field the gender imbalance still remains to be true. Furthermore, pay gap also exist with women making less on avarage than men.
 
-**Question:**  What is the difference between the percentage of the women population (Kaggle Survey respondent) and men population (Kaggle Survey respondents) who occupied Technology roles in Machine Learning and Data Science in the United States? 
+**Question:**  What is the difference between the percentage of the women (survey respondent) population and men  (survey respondents) population who occupied Technology roles Software Engineering, Machine Learning and Data Science in the United States? When comparing men and women in similar roles, does a pay gap exist? Does years of coding experience and/or education impact the salary of women? 
 
-
+**Simple Hypothesis**
 Null Hypothesis: | Alternative Hypothesis:
 ------------ | -------------
-There is NO difference between the percentage of the women population  and the men population who occupied Technology roles in Machine Learning and Data Science in the United States| There IS a difference between the percentage of the women population  and the men population who occupied Technology roles in Machine Learning and Data Science in the United States
+There is NO difference between the % in the workforce and (gap in salary when compared with years of coding experience, education) of the women population  and the men population | There is a difference between the % in workforce and (gap in salary when compared with years of coding experience, education) women population and the men population in the United States
 
 
 ## Objectives
-In Our analysis, we will compare the 2020 survey results against the previous two years surveys to determine the key differences between men & women within the Kaggle Survey dataset in order to reject the null hypythosis and conclude that gender imbalance exists.  Furthermore, we will seek to understand the state of Women in ML and DS Technology roles. We will utilize a Supervised Machine learning algorithm to predict salary of women in ML & DA role based on years of experience.
+In Our analysis, we will compare the 2020 survey results against the previous two years surveys to determine the key differences between men & women within the dataset in order to reject the null hypythosis and conclude that gender and paygap imbalance exists.  Furthermore, we will seek to understand the state of Women in Technology roles. We will utilize a Supervised Machine learning algorithm to predict salary of women in ML & DA role based on years of experience.
 
-**Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the gender imbalance that exist in  in Machine Learning and Data Science  Technology roles while also predicting the role role a women will occupy within ML & DS based on a variety of factors.
+**Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the difference that exist in Technology roles and what impacts formal education and years of coding experience have on salary for women when compare to men. 
 
 **Data Source Details:**
 
@@ -63,8 +63,8 @@ The model would measure the degree of difference years of experience and its imp
 Input Variable | Output Variable
 ------------ | -------------
 X |y
-Years of Experience | Salary
- 
+Years of Coding, Formal Education | Salary
+
 
 ##  Database Integration
 
