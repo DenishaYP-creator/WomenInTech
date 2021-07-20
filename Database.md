@@ -1,18 +1,7 @@
 # WomenInTech
 
 ## Segment One 
-### Team Members 
-Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
------------- | -------------  | ------------- | ------------- | -------------
 
-### Presentation 
-
-### GitHub Repository 
-
-### Machine Learning Model
-
-### Database Integration
-
-### Database Integration
+[![Womenin-Tech.png](https://i.postimg.cc/RF3zrHXC/Womenin-Tech.png)](https://postimg.cc/TLXsghzB)
 
 <hr> 
