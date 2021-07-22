@@ -32,7 +32,7 @@ In Our analysis, we will compare the 2020 survey results against the previous tw
 a) No formal education past high school b) Some college/university study without earning a bachelor’s degree c) Bachelor’s degree d) Master’s degree e) Doctoral degree f) Professional degree g) I prefer not to answer
 
 **2. Select the title most similar to your current role or most recent title if retired(Q5):**  
-a) Business Analyst b) Data Analyst c) Data Engineer d) Data Scientiste) DBA/Database Engineer f) Machine Learning Engineerg) Product/Project Managerh) Research Scientist i) Software Engineerj) Statistician k) Student l) Currently not employed m) Other
+a) Business Analyst b) Data Analyst c) Data Engineer d) Data Scientist) DBA/Database Engineer f) Machine Learning Engineerg) Product/Project Managerh) Research Scientist i) Software Engineerj) Statistician k) Student l) Currently not employed m) Other
 
 **3. For how many years have you been writing code and/or programming(Q6)?** 
 a) I have never written code b) < 1 years c) 1-2 years d) 3-5 years e) 5-10 years f) 10-20 years g) 20+ years
