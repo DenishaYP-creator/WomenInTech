@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Salary Prediction</title>
+        <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="static/css/stlye.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+    
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+<h1>Multiple Linear Regression Tool</h1>
+<h3>This tool is used to predict Salary based on dataset</h3>
+<p>Type in Number for Age <br>Type in Number for number of years coding <br>  Type in Number for Education: <br> 0: Prefer not to answer <br> 1: None <br> 2: Some <br> 3: Professional Degree <br> 4: Bachelors Degree <br> 5: Master's Degree <br> 6: Doctoral Degree </p>
+</div>
+</div>
+</div>
+  <div class="container mt-4">
+    <div class="row">
+      <div class="col-6 row-heading">
+        Feature
+      </div>
+      <div class="col-3 row-heading">
+        Input Value
+      </div>
+      
+    </div>
+    <div class="row">
+      <div class="col-6">
+        Age
+      </div>
+      <div class="col-3">
+        <input type="number" value="0" class="qty" id="qty_age"/>
+      </div>
+    </div>
+    
+     <div class="row my-3">
+      <div class="col-6">
+        Formal Education
+      </div>
+      <div class="col-3">
+        <input type="number" value="0" class="qty" id="qty_education"/>
+      </div>
+    </div>
+    
+    <div class="row my-3">
+      <div class="col-6">
+        Years Coding
+      </div>
+      <div class="col-3">
+        <input type="number" class="qty" value="0" id="qty_coding"/>
+      </div>
+  
+    </div>
+    
+    
+    <div class="row my-4">
+      <div class="col-9 text-right total">
+       Women_Salary_Prediction $
+      </div>
+
+      <div class="row my-4">
+        <div class="col-9 text-right total">
+         Men_Salary_Prediction $
+        </div>
+      
+      <div class="col-2 total-val">
+        <span id="total_value1">0</span
+      </div>
+      <div class="col-2 total-val">
+        <span id="total_value2">0</span
+      </div>
+    </div>
+    
+  </div>
+           <div class="row">
+            <div class="col-md-">
+              <div id="plot"></div>
+  
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script src="static/js/data_men.js"></script>
+        <script src="static/js/data_women.js"></script>
+        <script src="static/js/app.js"></script>
+        <script src="static/js/plots.js"></script>
+</body>
+</html> 
