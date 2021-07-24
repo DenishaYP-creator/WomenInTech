@@ -7,7 +7,7 @@
 
 # Segment Two: Build the Pieces
 
-## Overview of the Problem
+### Overview of the Problem
 
 **Target Population of Interest:** Women in Machine Learning and Data Science  Technology roles in the United States who responded to annual Surveys of various sources.
 
@@ -23,7 +23,7 @@ Null Hypothesis: | Alternative Hypothesis:
 There is NO difference between the % in the workforce and (gap in salary when compared with years of coding experience, education) of the women population  and the men population | There is a difference between the % in workforce and (gap in salary when compared with years of coding experience, education) women population and the men population in the United States
 
 
-## Objectives
+### Objectives
 In Our analysis, we will compare the 2020 survey results against the previous two years surveys to determine the key differences between men & women within the dataset in order to reject the null hypythosis and conclude that gender and paygap imbalance exists.  Furthermore, we will seek to understand the state of Women in Technology roles. We will utilize a Supervised Machine learning algorithm to predict salary of women in ML & DA role based on years of experience.
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the difference that exist in Technology roles and what impacts formal education and years of coding experience have on salary for women when compare to men. 
@@ -46,7 +46,7 @@ a) 0-49 employees b) 50-249 employees c) 250-999 employees d) 1000-9,999 employe
 
 
 
-## GitHub Repository Details
+### GitHub Repository Details
 The Women in Tech Github Repo has a main branch and 5 branches that are specific to the feature component of the project. The name of the branches are follows:
 1. ETL-Extract_Transform_Load
 2. Database
@@ -54,8 +54,8 @@ The Women in Tech Github Repo has a main branch and 5 branches that are specific
 4. Visualization
 5. Presentation
 
-## Machine Learning Model
-### Quantitative data analysis methods
+### Machine Learning Model
+#### Quantitative data analysis methods
 The Linear Regression model machine learning model is the provisional machine learning model that stands in for the final machine learning model.
 The model would measure the degree of difference years of experience and its impact on the salary of women developers. In other see if there’s any kind of correlation between how a women salary be based on their years of experience. Additional variable (may/will) be analyzed to deter if any correlation exist. 
 
@@ -68,7 +68,7 @@ X |y
 Years of Coding, Formal Education | Salary
 
 
-##  Database Integration
+###  Database Integration
 
 **DataFrame**
 The provisional that will mimics the expected final database structure or schema will encapass the following columns/features from the dataframe the group created utlizing kaggle survey data from a csv file. 
@@ -80,22 +80,25 @@ The provisional that will mimics the expected final database structure or schema
 
 # Segment Two: 
 
-#### Machine Learning Files: 
+### MACHINE LEARNING MODEL 
 
-
+**Machine Learning Files**
 - Salary_vs_Education.ipynb
 - Salary_vs_Years_Coding.ipynb
 - Salary_vs_Age.ipynb
 - Salary_vs_Position.ipynb
 
-[Salary-Educationpng.png](https://postimg.cc/crxJjLxq)
+[![Salary-Educationpng.png](https://i.postimg.cc/ZK3yWWXq/Salary-Educationpng.png)](https://postimg.cc/crxJjLxq)
+
 [![Salary-Yearof-Coding.png](https://i.postimg.cc/cJ5J9WPj/Salary-Yearof-Coding.png)](https://postimg.cc/cKwZCpxM)
 
 ### Dashboard
 In addition to Google Slides the team will create a Flask Appplication that will connect to Heroku. 
 The final Women In Tech dashboard will ulized plotly js library to create interactive charts to show case the findings.
 
-### Database Files: 
+### DATABASE  
+**Files:**
+
 - SQLQUERIES.sql
 - TableQueries.sql
 
