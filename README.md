@@ -65,7 +65,7 @@ The model would measure the degree of difference years of experience and its imp
 Input Variable | Output Variable
 ------------ | -------------
 X |y
-Years of Coding, Formal Education | Salary
+Years of Coding, Formal Education, Age | Salary
 
 
 ###  Database Integration
@@ -82,15 +82,57 @@ The provisional that will mimics the expected final database structure or schema
 
 ### MACHINE LEARNING MODEL 
 
+- The data was process utlizing Jupyter notebook and python Pandas module.  
+- The feature engineering was performed on the raw data set to improved model accuracy. The primary features the Women in Tech selected to answer our question are Years of Coding, Formal Education, Age, and Salary. 
+- We decided to perform a linear Regression model to better understand the realationship between the selected features utilizing sklearn LinearRegression model module.
+- We split the data frame into two. Male and Female and followed the following step on each.
+- 
+**ML Steps:**
+
+STEP | CODE 
+------------ | -------------
+Assign X Variable |  X = df['Age', 'Years_Coding', 'Education']
+Rashape X Variable  | df['Age', 'Years_Coding', 'Education'].values.reshape(-1, 1)
+Assign y Variable  |  y = df.Salary
+Create an instance of the linear regression model|  model = LinearRegression()   
+Attempt to learn patterns in the data by fitting the data| y = model.fit(X, y)
+Used the predict() method to generate predictions.| model.predict(X)
+Predictions Results | **Female:** 885   **Male:** 3903
+
+**Results:**
+
+**Salary_vs_Education** | Female| Male
+------------ | -------------| -------------
+Coefficent| [14895.62758145]| 35160.81416349059
+Intercept | [6749.67429451]| 99772.47478803102
+rsquared| 0.03930021772367798 |0.008440846472859365
+
+**Salary_vs_Years_Coding** | Female| Male
+------------ | -------------| -------------
+Coefficent| [3586.23031933] | 76808.07128281836
+Intercept | [3518.21343549] | 96006.81994698191
+rsquared| 0.1686829283894643| 0.12449161784230522
+
+**Salary_vs_Age** | Female| Male
+------------ | -------------| -------------
+Coefficent|[1056.24293621] | 70888.22871340805
+Intercept |[1639.68849527] | 68944.7988896175
+rsquared| 0.03064321419116678 | 0.06905352422189848 
+
+
+
+Explanation of model choice, including limitations and benefits
+
 **Machine Learning Files**
 - Salary_vs_Education.ipynb
 - Salary_vs_Years_Coding.ipynb
 - Salary_vs_Age.ipynb
-- Salary_vs_Position.ipynb
 
-[![Salary-Educationpng.png](https://i.postimg.cc/ZK3yWWXq/Salary-Educationpng.png)](https://postimg.cc/crxJjLxq)
+[![Salary-vs-Education.png](https://i.postimg.cc/L80dG33C/Salary-vs-Education.png)](https://postimg.cc/v49SV9jf)
 
-[![Salary-Yearof-Coding.png](https://i.postimg.cc/cJ5J9WPj/Salary-Yearof-Coding.png)](https://postimg.cc/cKwZCpxM)
+[![Salary-vs-Years-Coding.png](https://i.postimg.cc/gksbHWXP/Salary-vs-Years-Coding.png)](https://postimg.cc/F7Y6hwVP)
+
+[![Salary-vs-Age.png](https://i.postimg.cc/j29NG9Cq/Salary-vs-Age.png)](https://postimg.cc/Fky7STjw)
 
 ### Dashboard
 In addition to Google Slides the team will create a Flask Appplication that will connect to Heroku. 
