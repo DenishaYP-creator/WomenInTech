@@ -75,7 +75,6 @@ The provisional that will mimics the expected final database structure or schema
 
 [![Categories.png](https://i.postimg.cc/cJmkh66p/Categories.png)](https://postimg.cc/KK15vGPf)
 
-[![Orange-BGpng-copy-2.png](https://i.postimg.cc/kXkDNtgG/Orange-BGpng-copy-2.png)](https://postimg.cc/2V7zryvN)
 
 <hr> 
 
@@ -105,6 +104,9 @@ The final Women In Tech dashboard will ulized plotly js library to create intera
 
 
 <hr> 
+
+
+[![Orange-BGpng-copy-2.png](https://i.postimg.cc/kXkDNtgG/Orange-BGpng-copy-2.png)](https://postimg.cc/2V7zryvN)
 
 # Further Details on the Women in Tech Project  
 
