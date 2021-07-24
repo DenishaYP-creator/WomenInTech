@@ -83,10 +83,14 @@ The provisional that will mimics the expected final database structure or schema
 
 #### Machine Learning Files: 
 
-- Salary_vs_Age.ipynb
+
 - Salary_vs_Education.ipynb
--  Salary_vs_Position.ipynb
 - Salary_vs_Years_Coding.ipynb
+- Salary_vs_Age.ipynb
+- Salary_vs_Position.ipynb
+
+[Salary-Educationpng.png](https://postimg.cc/crxJjLxq)
+[![Salary-Yearof-Coding.png](https://i.postimg.cc/cJ5J9WPj/Salary-Yearof-Coding.png)](https://postimg.cc/cKwZCpxM)
 
 ### Dashboard
 In addition to Google Slides the team will create a Flask Appplication that will connect to Heroku. 
