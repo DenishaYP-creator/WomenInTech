@@ -75,6 +75,32 @@ The provisional that will mimics the expected final database structure or schema
 
 [![Orange-BGpng-copy-2.png](https://i.postimg.cc/kXkDNtgG/Orange-BGpng-copy-2.png)](https://postimg.cc/2V7zryvN)
 
+<hr> 
+
+# Segment Two: 
+
+#### Machine Learning Files: 
+
+- Salary_vs_Age.ipynb
+- Salary_vs_Education.ipynb
+-  Salary_vs_Position.ipynb
+- Salary_vs_Years_Coding.ipynb
+
+
+
+
+
+
+### Database Files: 
+- SQLQUERIES.sql
+- TableQueries.sql
+
+[![Database-ERD.png](https://i.postimg.cc/N058nJ9J/Database-ERD.png)](https://postimg.cc/2qNBbxxh)
+
+
+
+<hr> 
+
 # Further Details on the Women in Tech Project  
 
 ## Team Members 
@@ -112,36 +138,5 @@ One | Sketch It Out | TBD | Jul 4
 Two |Build the Pieces | Jul 5  | Jul 18
 Three |Plug It In	Group |	Jul 19 | Jul 25
 Four|Put It All Together | Jul 26 | Aug 1
-
-
- 
-<hr> 
-
-# Segment Two: 
-
-#### Machine Learning Files: 
-
-- Salary_vs_Age.ipynb
-- Salary_vs_Education.ipynb
--  Salary_vs_Position.ipynb
-- Salary_vs_Years_Coding.ipynb
-
-
-
-
-
-
-### Database Files: 
-- SQLQUERIES.sql
-- TableQueries.sql
-
-[![Database-ERD.png](https://i.postimg.cc/N058nJ9J/Database-ERD.png)](https://postimg.cc/2qNBbxxh)
-
-
-
-
-
-
-<hr> 
 
 [![womenin-Tech2.png](https://i.postimg.cc/QdLVgrn3/womenin-Tech2.png)](https://postimg.cc/qzLk0WTb)
