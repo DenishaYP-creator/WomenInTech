@@ -117,7 +117,19 @@ Four|Put It All Together | Jul 26 | Aug 1
  
 <hr> 
 
-# Segment Two: Coming Soon! 
+# Segment Two: 
+
+Machine LEarnign Files: 
+
+- Salary_vs_Age.ipynb
+- Salary_vs_Education.ipynb
+-  Salary_vs_Position.ipynb
+- Salary_vs_Years_Coding.ipynb
+
+
+
+
+
 
 <hr> 
 
