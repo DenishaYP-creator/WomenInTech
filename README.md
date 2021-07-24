@@ -103,7 +103,7 @@ Numpy, Mathplotlib, Imbalance Learn
 - [x] Machine Learning Model
 - [x] Database
 - [x] Dashboard 
-- [ ] 
+
 
 ### Group Project Components & Timeline  
 Segment | Title | Start Date | End Date 
@@ -119,12 +119,23 @@ Four|Put It All Together | Jul 26 | Aug 1
 
 # Segment Two: 
 
-Machine LEarnign Files: 
+#### Machine Learning Files: 
 
 - Salary_vs_Age.ipynb
 - Salary_vs_Education.ipynb
 -  Salary_vs_Position.ipynb
 - Salary_vs_Years_Coding.ipynb
+
+
+
+
+
+
+### Database Files: 
+- SQLQUERIES.sql
+- TableQueries.sql
+
+[![Database-ERD.png](https://i.postimg.cc/N058nJ9J/Database-ERD.png)](https://postimg.cc/2qNBbxxh)
 
 
 
