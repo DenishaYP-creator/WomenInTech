@@ -5,6 +5,8 @@
 
 # WomenInTech: 
 
+# Segment Two: Build the Pieces
+
 ## Overview of the Problem
 
 **Target Population of Interest:** Women in Machine Learning and Data Science  Technology roles in the United States who responded to annual Surveys of various sources.
@@ -86,10 +88,9 @@ The provisional that will mimics the expected final database structure or schema
 -  Salary_vs_Position.ipynb
 - Salary_vs_Years_Coding.ipynb
 
-
-
-
-
+### Dashboard
+In addition to Google Slides the team will create a Flask Appplication that will connect to Heroku. 
+The final Women In Tech dashboard will ulized plotly js library to create interactive charts to show case the findings.
 
 ### Database Files: 
 - SQLQUERIES.sql
