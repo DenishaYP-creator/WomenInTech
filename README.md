@@ -28,24 +28,6 @@ In Our analysis, we will compare the 2020 survey results against the previous tw
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the difference that exist in Technology roles and what impacts formal education and years of coding experience have on salary for women when compare to men. 
 
-**Data Source Details:**
-
-**1. What is the highest level of formal education that you have attained or plan to attain within the next 2 years(Q4)?** 
-a) No formal education past high school b) Some college/university study without earning a bachelor’s degree c) Bachelor’s degree d) Master’s degree e) Doctoral degree f) Professional degree g) I prefer not to answer
-
-**2. Select the title most similar to your current role or most recent title if retired(Q5):**  
-a) Business Analyst b) Data Analyst c) Data Engineer d) Data Scientist) DBA/Database Engineer f) Machine Learning Engineerg) Product/Project Managerh) Research Scientist i) Software Engineerj) Statistician k) Student l) Currently not employed m) Other
-
-**3. For how many years have you been writing code and/or programming(Q6)?** 
-a) I have never written code b) < 1 years c) 1-2 years d) 3-5 years e) 5-10 years f) 10-20 years g) 20+ years
- 
-**5. What is the size of the company where you are employed(Q20)?** 
-a) 0-49 employees b) 50-249 employees c) 250-999 employees d) 1000-9,999 employees e) 10,000 or more employees
-
-**6. What is your current yearly compensation(Q24)?**  
-
-
-
 ### GitHub Repository Details
 The Women in Tech Github Repo has a main branch and 5 branches that are specific to the feature component of the project. The name of the branches are follows:
 1. ETL-Extract_Transform_Load
@@ -82,51 +64,46 @@ The provisional that will mimics the expected final database structure or schema
 
 ### MACHINE LEARNING MODEL 
 
+**Machine Learning Files**
+- Salary_vs_Education.ipynb
+- Salary_vs_Years_Coding.ipynb
+- Salary_vs_Age.ipynb
+
+**Our Process:**
 - The data was process utlizing Jupyter notebook and python Pandas module.  
 - The feature engineering was performed on the raw data set to improved model accuracy. The primary features the Women in Tech selected to answer our question are Years of Coding, Formal Education, Age, and Salary. 
-- We decided to perform a linear Regression model to better understand the realationship between the selected features utilizing sklearn LinearRegression model module.
 - We split the data frame into two. Male and Female and followed the following step on each.
-- 
+- We decided to perform a linear Regression model to better understand the realationship between the selected features utilizing sklearn LinearRegression model module.
+- The Benefit of the Linear Regression Model it attempts to make prediction base on the variables by finding thr best fit line. 
+- Linear Regression Model has it's  limitations with the biggest being it's sensitivity to outliers which can have huge effects on the regression. 
+
 **ML Steps:**
 
-STEP | CODE 
------------- | -------------
-Assign X Variable |  X = df['Age', 'Years_Coding', 'Education']
-Rashape X Variable  | df['Age', 'Years_Coding', 'Education'].values.reshape(-1, 1)
-Assign y Variable  |  y = df.Salary
-Create an instance of the linear regression model|  model = LinearRegression()   
-Attempt to learn patterns in the data by fitting the data| y = model.fit(X, y)
-Used the predict() method to generate predictions.| model.predict(X)
-Predictions Results | **Female:** 885   **Male:** 3903
+1. Assign X Variable 
+2. Rashape X Variable 
+3. Assign y Variable  
+4. Create an instance of the linear regression model
+5 Attempt to learn patterns in the data by fitting the data| 
+6. Used the predict() method to generate predictions
 
 **Results:**
+
+Predictions Results: **Female:** 885   **Male:** 3903
 
 **Salary_vs_Education** | Female| Male
 ------------ | -------------| -------------
 Coefficent| [14895.62758145]| 35160.81416349059
 Intercept | [6749.67429451]| 99772.47478803102
 rsquared| 0.03930021772367798 |0.008440846472859365
-
-**Salary_vs_Years_Coding** | Female| Male
------------- | -------------| -------------
+**Salary_vs_Years_Coding** | **Female** |**Male** 
 Coefficent| [3586.23031933] | 76808.07128281836
 Intercept | [3518.21343549] | 96006.81994698191
 rsquared| 0.1686829283894643| 0.12449161784230522
-
-**Salary_vs_Age** | Female| Male
------------- | -------------| -------------
+**Salary_vs_Age** | **Female** |**Male** 
 Coefficent|[1056.24293621] | 70888.22871340805
 Intercept |[1639.68849527] | 68944.7988896175
 rsquared| 0.03064321419116678 | 0.06905352422189848 
 
-
-
-Explanation of model choice, including limitations and benefits
-
-**Machine Learning Files**
-- Salary_vs_Education.ipynb
-- Salary_vs_Years_Coding.ipynb
-- Salary_vs_Age.ipynb
 
 [![Salary-vs-Education.png](https://i.postimg.cc/L80dG33C/Salary-vs-Education.png)](https://postimg.cc/v49SV9jf)
 
@@ -155,12 +132,27 @@ The final Women In Tech dashboard will ulized plotly js library to create intera
 
 # Further Details on the Women in Tech Project  
 
+**Data Source Details:**
+
+**1. What is the highest level of formal education that you have attained or plan to attain within the next 2 years(Q4)?** 
+a) No formal education past high school b) Some college/university study without earning a bachelor’s degree c) Bachelor’s degree d) Master’s degree e) Doctoral degree f) Professional degree g) I prefer not to answer
+
+**2. Select the title most similar to your current role or most recent title if retired(Q5):**  
+a) Business Analyst b) Data Analyst c) Data Engineer d) Data Scientist) DBA/Database Engineer f) Machine Learning Engineerg) Product/Project Managerh) Research Scientist i) Software Engineerj) Statistician k) Student l) Currently not employed m) Other
+
+**3. For how many years have you been writing code and/or programming(Q6)?** 
+a) I have never written code b) < 1 years c) 1-2 years d) 3-5 years e) 5-10 years f) 10-20 years g) 20+ years
+ 
+**5. What is the size of the company where you are employed(Q20)?** 
+a) 0-49 employees b) 50-249 employees c) 250-999 employees d) 1000-9,999 employees e) 10,000 or more employees
+
+**6. What is your current yearly compensation(Q24)?**  
+
 ## Team Members 
 Denisha Perez | Juleah Koelling| Sahana Thumsi| Shelia Daniel | Sierra Knighten
 ------------ | -------------  | ------------- | ------------- | -------------
  ### Team Communication
  The Women in Tech team primary means of communciation is Slack. The Women in Tech team utlizes the Orange slack channel to present ideas, ask questions, and provide solutions that aide in meeting project deliverable and overall project delivery. Team member also shared mobile phone number to be utlized as an alternative option when necessary. 
-
 
 ## Technologies 
 #### Data Cleaning and Analysis: 
