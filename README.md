@@ -60,6 +60,8 @@ The provisional that will mimics the expected final database structure or schema
 
 <hr> 
 
+[![Secment2.png](https://i.postimg.cc/HkqQNNjs/Secment2.png)](https://postimg.cc/9DBRRJGv)
+
 # Segment Two: 
 
 ### MACHINE LEARNING MODEL 
