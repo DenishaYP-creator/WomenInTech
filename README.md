@@ -113,9 +113,12 @@ rsquared| 0.03064321419116678 | 0.06905352422189848
 
 [![Salary-vs-Age.png](https://i.postimg.cc/j29NG9Cq/Salary-vs-Age.png)](https://postimg.cc/Fky7STjw)
 
-### Dashboard
+### Dashboard & Presentation 
 In addition to Google Slides the team will create a Flask Appplication that will connect to Heroku. 
 The final Women In Tech dashboard will ulized plotly js library to create interactive charts to show case the findings.
+
+Google Slide Template Link: https://docs.google.com/presentation/d/14lsTK_TZEUkBLGRvn5NSM5nXPuJzJcnixqrUnA2axA8/edit?usp=sharing (In progress) 
+
 
 ### DATABASE  
 **Files:**
