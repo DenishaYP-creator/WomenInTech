@@ -20,6 +20,7 @@ CREATE TABLE Work_Info(
     Years_Coding FLOAT NOT NULL,
 	Salary FLOAT NOT NULL,
     PRIMARY KEY (Respondent_Id)
+);
 
 SELECT DISTINCT ON (Respondent_Id) d.Respondent_Id
 d.Age
