@@ -5,7 +5,7 @@
 
 # WomenInTech: 
 
-# Segment Two: Build the Pieces
+# Segment One: Sketch It Out 
 
 ### Overview of the Problem
 
