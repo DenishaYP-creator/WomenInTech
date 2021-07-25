@@ -1,16 +1,18 @@
 // Intercept and Coeffs were found using sklearn in pandas 
-Women_Intercept = -32201.72846527167;
-W_Age_Coeff = 1632.77211965;
-W_Education_Coeff = 5731.59056211;
-W_Coding_Coeff = -78.53633802;
+Women_Intercept = -10533.346696907938;
+W_Age_Coeff = 1642.32066185;
+W_Education_Coeff = 992.60496029;
+W_Coding_Coeff = 338.05303618;
 
 // Women_Salary = (Women_Intercept + (AGE * Age_Coeff) + (Education * Education_Coeff) + (Coding * Coding_Coeff))
 
 // Intercept and Coeffs were found using sklearn in pandas 
-Men_Intercept = -17339.256208534753
-M_Age_Coeff = 39.89848239;
-M_Education_Coeff = 5020.14870238;
-M_Coding_Coeff = 6415.19448554;
+Men_Intercept = -3521.425764058258;
+M_Age_Coeff = 78.46865159;
+M_Education_Coeff = 4836.1987244;
+M_Coding_Coeff = 6189.2322976;
+
+// Men_Salary = (Men_Intercept + (AGE * Age_Coeff) + (Education * Education_Coeff) + (Coding * Coding_Coeff))
 
 
 function calculateSalary()
