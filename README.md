@@ -13,7 +13,7 @@
 
 According to the US Bureau of Labor Statistics, "Employment in computer and information technology occupations is projected to grow faster than the average for all occupations."
 
-**Problem Statement:** Despite the growth in Technology jobs the number of Women in the United States that are occupying roles in Technology is significantly less than their male counterparts. When we look at the women's representation in the Technology roles specifically women in Software Engineering, Data Science field the gender imbalance still remains to be true. Furthermore, pay gap also exist with women making less on avarage than men.
+**Problem Statement:** Despite the growth in Technology jobs, the number of women in the United States that are occupying roles in Technology is significantly less than their male counterparts. When we look at the representation of women in the Software Engineering and Data Science fields, the gender imbalance still remains to be true. Furthermore, a pay gap also exists with women making less than men on avarage.
 
 **Question:**  What is the difference between the percentage of the women (survey respondent) population and men  (survey respondents) population who occupied Technology roles Software Engineering, Machine Learning and Data Science in the United States? When comparing men and women in similar roles, does a pay gap exist? Does years of coding experience and/or education impact the salary of women? 
 
