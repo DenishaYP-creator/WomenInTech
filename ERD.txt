@@ -1,0 +1,29 @@
+Men_Means_Dataset
+-
+Gender INT FK - Kaggle_Data.Gender
+Formal_Education VARCHAR
+Position FLOAT 
+Years_Coding FLOAT 
+Salary FLOAT pk FK - Womens_Means_Dataset.Salary
+Age FLOAT 
+
+Womens_Means_Dataset
+-
+Gender INT FK - Kaggle_Data.Gender
+Formal_Education VARCHAR
+Position FLOAT 
+Years_Coding FLOAT 
+Salary FLOAT pk
+Age FLOAT 
+
+Kaggle_Data
+-
+Respondent_Id INT pk
+Age FLOAT
+Gender VARCHAR 
+Country Varchar
+Formal_Education VARCHAR
+Position VARCHAR 
+Years_Coding FLOAT
+Salary FLOAT
+
