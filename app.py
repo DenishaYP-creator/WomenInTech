@@ -11,10 +11,11 @@ import pandas as pd
 import numpy as np
 
 
-# IMAGES_FOLDER = os.path.join('static', 'images')
+
 
 app = Flask(__name__)
 bootstrap = Bootstrap(app)
+# IMAGES_FOLDER = os.path.join('static', 'images')
 # app.config['UPLOAD_FOLDER'] = IMAGES_FOLDER 
 
 
