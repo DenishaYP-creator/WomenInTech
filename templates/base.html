@@ -15,10 +15,10 @@
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
 
-    <!-- Load plotly.js into the DOM -->
+    <!-- PLOTLY JAVASCRIPT
     <script src="https://cdn.plot.ly/plotly-2.2.0.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script> -->
 
     <style type="text/css">
         .jumbotron {
@@ -39,6 +39,25 @@
 
         .navbar+.jumbotron {
             margin-top: -20px
+        }
+
+        #tables {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        #tables td,
+        #tables th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        #tables tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        #tables tr:hover {
+            background-color: #ddd;
         }
     </style>
     <!----Title Block---->
@@ -76,13 +95,15 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-    <!-- Optional JavaScript -->
-    <script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/plots.js') }}"></script>
 
-    <!-- Load plotly.js into the DOM -->
-    <script src="https://cdn.plot.ly/plotly-2.2.0.min.js"></script>
+
+    <!--FILE FROM OTHER HTML DOC  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script>
+    <script src="static/js/data_men.js"></script>
+    <script src="static/js/data_women.js"></script>
+    <script src="static/js/app.js"></script>
+    <script src="static/js/plots.js"></script>
 
 </body>
