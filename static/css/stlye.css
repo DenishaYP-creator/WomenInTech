@@ -1,0 +1,27 @@
+/* body {
+
+  color: #080000;
+}
+
+.jumbotron {
+  background-image: url("../images/UFO.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+} */
+
+
+.row-heading
+{
+  font-size:1.3rem;
+  font-weight:bold;
+}
+.total
+{
+  font-size:2rem;
+  font-weight:bold;
+}
+.total-val
+{
+  font-size:2rem;
+  border: bold;
+}
