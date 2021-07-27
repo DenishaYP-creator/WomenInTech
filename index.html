@@ -1,0 +1,413 @@
+<!----Home Page with base page Elements---->
+{% extends 'base.html' %}
+{% import 'macros.html' as macros %}
+
+<!----Start of Body of the Application AKA Content Block---->
+{% block page_content %}
+
+
+<!------------------------Start of jumbotron Sectiion-------------------->
+<div class="jumbotron bg-gradient-primary text-center ">
+    <h1>WOMEN IN TECH</h1>
+    <p> The State of Women In Technology Roles </p>
+    <a type="button" class="btn btn-lg btn-primary" href="https://github.com/DenishaYP-creator/WomenInTech"><span
+            class="glyphicon glyphicon-download"></span> GitHub Repo</a>
+</div>
+
+<!----------------------THE PROBLEM Section--------------------------------------->
+<div class="container bg-2 text-center">
+    <div class=" col-md-8">
+        <img src="./static/images/THEPROBLEM.png" alt="THE PROBLEM" border='0' style="width:100%">
+    </div>
+</div>
+</div>
+<br>
+
+<!----------------------OVERVIEW--------------------------------------->
+<div class=" container bg-secondary text-left">
+    <!--ROW-Start-->
+    <div class="row">
+        <!--Small ContainerDiv-Start -->
+        <div class="col-sm-2">
+            <center>
+
+        </div>
+        <!--Small ContainerDiv-End -->
+        <!--Large Container Div- Start-->
+        <div class="col-md-8">
+            <h1>OVERVIEW</h1>
+            <p align="left"><strong>Background</strong>According to the US Bureau of Labor Statistics,
+                "Employment in computer and information technology occupations is projected to grow
+                faster than the average for all occupations."Despite the growth in Technology jobs
+                the number of Women in the United States that are occupying roles in Technology is
+                significantly less than their male counterparts. When we look at the women's
+                representation in the Technology roles specifically women in Software Engineering,
+                Data Science field the gender imbalance still remains to be true.
+                Furthermore, pay gap also exist with women making less on avarage than men.</p>
+            <br>
+            <p align="left"><strong>Objectives</strong>
+                In Our analysis, we will compare the 2020 survey results against the previous
+                two years surveys to determine the key differences between men & women within the
+                dataset in order to reject the null hypythosis and conclude that gender
+                and paygap imbalance exists. Furthermore, we will seek to understand the state
+                of Women in Technology roles. We will utilize a Supervised Machine learning algorithm
+                to predict salary of women in ML & DA role based on years of experience.
+
+            </p>
+        </div>
+        <!--Large ContainerDiv-End -->
+    </div>
+    <!--ROW End -->
+</div>
+
+
+
+
+
+
+<!--SPACE-->
+<div>
+    {% if True %}
+    {% endif %}
+</div>
+<hr>
+
+<!----------------------THE QUESTION Section --------------------------------------->
+<!--Startof The question image-->
+<div class="container bg-2 text-center">
+    <div class=" col-md-8">
+        <div class="row">
+            <img src="../static/images/THEQUESTION.png" alt="THE QUESTION" border='0' style="width:100%">
+        </div>
+    </div>
+</div>
+<br>
+<!--End of The question image-->
+
+<div class=" container bg-secondary text-left">
+    <!--ROW-Start-->
+    <div class="row">
+        <!--Small ContainerDiv-Start -->
+        <div class="col-sm-4">
+            <center>
+                <h1>Statistics on
+                    <strong>Women In Tech</strong>
+                </h1>
+                <h6>Based on Kaggle Survey Response</h6>
+                <p> <strong>Question:</strong> What is the difference between the percentage of
+                    the women (survey respondent) population and men (survey respondents) population
+                    who occupied Technology roles Software Engineering, Machine Learning and Data Science in the
+                    United States?
+                    When comparing men and women in similar roles, does a pay gap exist?
+                    Does years of coding experience and/or education impact the salary of women?</p>
+            </center>
+        </div>
+        <!--Large Container Div- Start-->
+        <div class="col-md-6">
+            <figure class="figure">
+                <div class='tableauPlaceholder' id='viz1627343917017' style='position: relative'><noscript><a
+                            href='#'><img alt='Avg Salary Tree '
+                                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;AvgSalaryTree&#47;AvgSalaryTree&#47;1_rss.png'
+                                style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                        <param name='embed_code_version' value='3' />
+                        <param name='site_root' value='' />
+                        <param name='name' value='AvgSalaryTree&#47;AvgSalaryTree' />
+                        <param name='tabs' value='no' />
+                        <param name='toolbar' value='yes' />
+                        <param name='static_image'
+                            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;AvgSalaryTree&#47;AvgSalaryTree&#47;1.png' />
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                        <param name='language' value='en-US' />
+                    </object></div>
+                <script
+                    type='text/javascript'>                    var divElement = document.getElementById('viz1627343917017'); var vizElement = divElement.getElementsByTagName('object')[0]; if (divElement.offsetWidth > 800) { vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; } else if (divElement.offsetWidth > 500) { vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; } else { vizElement.style.width = '100%'; vizElement.style.height = '727px'; } var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+            </figure>
+        </div>
+        <!--Large ContainerDiv-End -->
+    </div>
+    <!--ROW End -->
+</div>
+<!----------------------THE QUESTION --------------------------------------->
+
+
+
+
+
+
+
+<!----------------------THE STUDY --------------------------------------->
+<hr>
+<div class="container bg-2 text-center">
+    <div class=" col-md-8">
+        <div class="row">
+            <img src="./static/images/THESTUDY.png" alt="THE STUDY" border='0' style="width:100%">
+        </div>
+    </div>
+</div>
+<br>
+
+<hr>
+
+
+<div class=" container bg-secondary text-left">
+    <!--ROW-Start-->
+    <div class="row">
+        <!--Small ContainerDiv-Start -->
+        <div class="col-sm-6">
+            <center>
+                <h1>Divider Three</h1>
+            </center>
+            <p> Ac turpis egestas integer eget aliquet nibh praesent.
+                In aliquam sem fringilla ut morbi tincidunt augue interdum velit.
+                At erat pellentesque adipiscing commodo elit at.
+                Phasellus vestibulum lorem sed risus ultricies.
+                Consequat ac felis donec et odio pellentesque diam volutpat commodo.
+                Venenatis lectus magna fringilla urna.
+                Malesuada pellentesque elit eget gravida cum sociis natoque penatibus et.
+                Eu consequat ac felis donec et odio pellentesque.
+                Quis viverra nibh cras pulvinar mattis nunc sed blandit libero.
+                Sagittis purus sit amet volutpat consequat mauris nunc congue nisi.
+                Lacus sed turpis tincidunt id aliquet risus. </p>
+        </div>
+        <!--Large Container Div- Start-->
+        <div class="col-sm-6">
+            <figure class="figure">
+                <div class='tableauPlaceholder' id='viz1627344080960' style='position: relative'><noscript><a
+                            href='#'><img alt='Median Stats '
+                                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MedianStats_16273435635250&#47;MedianStats&#47;1_rss.png'
+                                style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                        <param name='embed_code_version' value='3' />
+                        <param name='site_root' value='' />
+                        <param name='name' value='MedianStats_16273435635250&#47;MedianStats' />
+                        <param name='tabs' value='no' />
+                        <param name='toolbar' value='yes' />
+                        <param name='static_image'
+                            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MedianStats_16273435635250&#47;MedianStats&#47;1.png' />
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                        <param name='language' value='en-US' />
+                    </object></div>
+                <script
+                    type='text/javascript'>                    var divElement = document.getElementById('viz1627344080960'); var vizElement = divElement.getElementsByTagName('object')[0]; if (divElement.offsetWidth > 800) { vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; } else if (divElement.offsetWidth > 500) { vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; } else { vizElement.style.width = '100%'; vizElement.style.height = '727px'; } var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+                <!-- <figcaption class="figure-caption">A caption for the above image.</figcaption> -->
+            </figure>
+        </div>
+        <!--Large ContainerDiv-End -->
+    </div>
+    <!--ROW End -->
+</div>
+
+
+<hr>
+
+<!--DASH BOARD SECTION --------------------------------------------->
+
+<div class="container p-3 my-3 bg-dark text-white text-center">
+    <h1>Multiple Linear Regression Dashboard</h1>
+    <h3>This tool is used to predict Salary based on the Kaggle survey dataset</h3>
+</div>
+<div>
+    {% if True %}
+
+
+    {% endif %}
+</div>
+<div>
+    {% if True %}
+
+
+    {% endif %}
+</div>
+
+<!--NEW ACTION-->
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-4">
+            <!-- <div class="thumbnail"> -->
+            <table id="tables">
+                <tr>
+                    <td>0</td>
+                    <td>Prefer not to answer</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>None</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Some</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Professional Degree</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Bachelors Degree</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Master's Degree</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Doctoral Degree/td>
+            </table>
+        </div>
+
+
+        <!-- </div> -->
+
+        <div class="col-md-4">
+            <!-- <div class="thumbnail"> -->
+            <table id="tables">
+                <tr>
+                    <td> Age </td>
+                    <td> <input type="number" value="0" class="qty" id="qty_age" /></td>
+                </tr>
+                <tr>
+                    <td>Formal Education </td>
+                    <td> <input type="number" value="0" class="qty" id="qty_education" /></td>
+                </tr>
+                <tr>
+                    <td>Years Coding</td>
+                    <td> <input type="number" class="qty" value="0" id="qty_coding" /></td>
+                </tr>
+            </table>
+        </div>
+        <!-- </div> -->
+
+        <div class="col-md-4">
+            <!-- <div class="thumbnail"> -->
+            <table id="tables">
+                <tr>
+                    <td>Women's Salary Prediction</td>
+                    <td> <span id="total_value1">Total Value 1</span></td>
+                </tr>
+                <tr>
+                    <td>Women's Salary Prediction</td>
+                    <td> <span id="total_value2">Total Value 1</span></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <!--Row -->
+</div>
+<!--Container -->
+<!-- </div> -->
+<hr>
+
+<!--PLOT SECTION-->
+<div class="container-fluid">
+    <div class="col-md-8">
+        <div id="plot"></div>
+    </div>
+</div>
+
+<hr>
+
+<!----------------------OVERVIEW--------------------------------------->
+<!-- <div class="container-fluid bg-2 text-center"> -->
+<div class="container text-center">
+    <h1>OVERVIEW</h1>
+    <p align="left"><strong>Background</strong>According to the US Bureau of Labor Statistics,
+        "Employment in computer and information technology occupations is projected to grow
+        faster than the average for all occupations."Despite the growth in Technology jobs
+        the number of Women in the United States that are occupying roles in Technology is
+        significantly less than their male counterparts. When we look at the women's
+        representation in the Technology roles specifically women in Software Engineering,
+        Data Science field the gender imbalance still remains to be true.
+        Furthermore, pay gap also exist with women making less on avarage than men.</p>
+    <br>
+    <p align="left"><strong>Objectives</strong>
+        In Our analysis, we will compare the 2020 survey results against the previous
+        two years surveys to determine the key differences between men & women within the
+        dataset in order to reject the null hypythosis and conclude that gender
+        and paygap imbalance exists. Furthermore, we will seek to understand the state
+        of Women in Technology roles. We will utilize a Supervised Machine learning algorithm
+        to predict salary of women in ML & DA role based on years of experience.
+        <strong>Question:</strong> What is the difference between the percentage of
+        the women (survey respondent) population and men (survey respondents) population
+        who occupied Technology roles Software Engineering, Machine Learning and Data Science in the United States?
+        When comparing men and women in similar roles, does a pay gap exist?
+        Does years of coding experience and/or education impact the salary of women?
+    </p>
+</div>
+
+<!--SPACE-->
+<div>
+    {% if True %}
+    {% endif %}
+</div>
+<hr>
+
+
+
+
+
+<!--FINAL SECTION --------------------------------------------->
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <a href='https://postimg.cc/0rGt6yCx' target='_blank'>
+                    <img src='https://i.postimg.cc/G3V65B8B/3216695.jpg' border='0' alt='3216695' style="width:100%">
+                    <div class="caption">
+                        <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <a href='https://postimg.cc/0rGt6yCx' target='_blank'>
+                    <img src='https://i.postimg.cc/G3V65B8B/3216695.jpg' border='0' alt='3216695' style="width:100%">
+                    <div class="caption">
+                        <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <a href='https://postimg.cc/0rGt6yCx' target='_blank'>
+                    <img src='https://i.postimg.cc/G3V65B8B/3216695.jpg' border='0' alt='3216695' style="width:100%">
+                    <div class="caption">
+                        <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!--Row-->
+</div>
+
+
+<div>
+    {% if True %}
+    {% endif %}
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="static/js/data_men.js"></script>
+<script src="static/js/data_women.js"></script>
+<script src="static/js/app.js"></script>
+<script src="static/js/plots.js"></script>
+
+{% endblock %}
+<!----End Content Block---->
