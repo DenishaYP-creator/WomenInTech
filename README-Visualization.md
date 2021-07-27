@@ -19,6 +19,6 @@ https://public.tableau.com/app/profile/sheila.daniel/viz/WomenInTechAnalysisAver
 
 https://public.tableau.com/app/profile/sheila.daniel/viz/WomenInTech/WomenInTechComparedToMenInTech1
 
-## Women And Men Around The World
+## Women And Men In Tach Around The World Salary
 
 https://public.tableau.com/app/profile/sheila.daniel/viz/WomenInTechAnalysisSalaryOfMenAndWomenAroundTheWorld/SalaryForWomenAndMenInTechAroundTheWorld
