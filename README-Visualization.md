@@ -13,7 +13,7 @@ https://public.tableau.com/app/profile/sheila.daniel/viz/WomenInTechAnalysisAver
 https://public.tableau.com/app/profile/sheila.daniel/viz/WomenInTechAnalysisAverageSalaryByYearsofCoding/AverageSalaryByYearsofCoding
 
 
-# Dashbord 1 / 2
+# Dashbords 1 / 2
 
 ## Women And Men Compared
 
