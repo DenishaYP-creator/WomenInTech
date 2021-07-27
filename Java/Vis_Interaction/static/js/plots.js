@@ -1,13 +1,18 @@
 var xArray = women.map(row => row.Age);
 var yArray = women.map(row => row.Salary);
-var xArray2 = men.map(row => row.Age);
-var yArray2 = men.map(row => row.Salary);
-var xArray3 = women.map(row => row.Formal_Education);
+
+var xArray2 = women.map(row => row.Formal_Education);
+var yArray2 = women.map(row => row.Salary);
+
+var xArray3 = women.map(row => row.Years_Coding);
 var yArray3 = women.map(row => row.Salary);
-var xArray4 = men.map(row => row.Formal_Education);
+
+var xArray4 = men.map(row => row.Age);
 var yArray4 = men.map(row => row.Salary);
-var xArray5 = women.map(row => row.Years_Coding);
-var yArray5 = women.map(row => row.Salary);
+
+var xArray5 = men.map(row => row.Formal_Education);
+var yArray5 = men.map(row => row.Salary);
+
 var xArray6 = men.map(row => row.Years_Coding);
 var yArray6 = men.map(row => row.Salary);
 
@@ -151,7 +156,7 @@ var intercept6 = (ySum6 / count6) - (slope6 * xSum6) / count6;
 // Generate values
 var xValues = [];
 var yValues = [];
-for (var x = 20; x <= 60; x += 1) {
+for (var x = 0; x <= 60; x += 1) {
   xValues.push(x);
   yValues.push(x * slope + intercept);
 }
@@ -159,7 +164,7 @@ for (var x = 20; x <= 60; x += 1) {
 // Generate values
 var xValues2 = [];
 var yValues2 = [];
-for (var x = 20; x <= 60; x += 1) {
+for (var x = 2.8; x <= 6; x += 1) {
   xValues2.push(x);
   yValues2.push(x * slope2 + intercept2);
 }
@@ -167,7 +172,7 @@ for (var x = 20; x <= 60; x += 1) {
 // Generate values
 var xValues3 = [];
 var yValues3 = [];
-for (var x = 4; x <= 6; x += 1) {
+for (var x = 0 ; x <= 12; x += 1) {
   xValues3.push(x);
   yValues3.push(x * slope3 + intercept3);
 }
@@ -175,7 +180,7 @@ for (var x = 4; x <= 6; x += 1) {
 // Generate values
 var xValues4 = [];
 var yValues4 = [];
-for (var x = 4; x <= 6; x += 1) {
+for (var x = 0; x <= 60; x += 1) {
   xValues4.push(x);
   yValues4.push(x * slope4 + intercept4);
 }
@@ -183,7 +188,7 @@ for (var x = 4; x <= 6; x += 1) {
 // Generate values
 var xValues5 = [];
 var yValues5 = [];
-for (var x = 2; x <= 14; x += 1) {
+for (var x = 3.7; x <= 5.5; x += 1) {
   xValues5.push(x);
   yValues5.push(x * slope5 + intercept5);
 }
@@ -191,7 +196,7 @@ for (var x = 2; x <= 14; x += 1) {
 // Generate values
 var xValues6 = [];
 var yValues6 = [];
-for (var x = 2; x <= 14; x += 1) {
+for (var x = 0; x <= 14; x += 1) {
   xValues6.push(x);
   yValues6.push(x * slope6 + intercept6);
 }
@@ -201,20 +206,20 @@ for (var x = 2; x <= 14; x += 1) {
 var data = [trace1 = {x:xArray, y:yArray, xaxis: 'x', yaxis: 'y', mode:"markers", name: "Data points for Women: Age Vs. Salary"},
             {x:xValues, y:yValues, xaxis: 'x', yaxis: 'y', mode:"lines", name: "Linear Regression Trendline for Women: Age vs: Salary"}, 
 
-            trace2 = {x:xArray2, y:yArray2, xaxis: 'x2', yaxis: 'y2', mode:"markers", name: "Data points for Men: Age Vs. Salary"},
-            {x:xValues2, y:yValues2, xaxis: 'x2', yaxis: 'y2', mode:"lines", name: "Linear Regression Trendline for Men: Age vs: Salary"},
+            trace2 = {x:xArray2, y:yArray2, xaxis: 'x2', yaxis: 'y2', mode:"markers", name: "Data points for Women: Formal Education Vs. Salary"},
+            {x:xValues2, y:yValues2, xaxis: 'x2', yaxis: 'y2', mode:"lines", name: "Linear Regression Trendline for Women: Formal Education vs: Salary"},
 
-            trace3 = {x:xArray3, y:yArray3, xaxis: 'x3',yaxis: 'y3', mode:"markers", name : "Data points for Women: Formal Education Vs. Salary"},
-            {x:xValues3, y:yValues3, xaxis: 'x3',yaxis: 'y3', mode:"lines", name: "Linear Regression Trendline for Women: Formal Education vs: Salary"},
+            trace3 = {x:xArray3, y:yArray3, xaxis: 'x3',yaxis: 'y3', mode:"markers", name : "Data points for Women: Years Coding Vs. Salary"},
+            {x:xValues3, y:yValues3, xaxis: 'x3',yaxis: 'y3', mode:"lines", name: "Linear Regression Trendline for Women: Years Coding vs: Salary"},
 
-            trace4 = {x:xArray4, y:yArray4, xaxis: 'x4', yaxis: 'y4', mode:"markers", name: "Data points for Men: Formal Education Vs. Salary"},
-            {x:xValues4, y:yValues4, xaxis: 'x4',yaxis: 'y4', mode:"lines", name: "Linear Regression Trendline for Men: Formal Education vs: Salary"},
+            trace4 = {x:xArray4, y:yArray4, xaxis: 'x4', yaxis: 'y4', mode:"markers", name: "Data points for Men: Age Vs. Salary"},
+            {x:xValues4, y:yValues4, xaxis: 'x4',yaxis: 'y4', mode:"lines", name: "Linear Regression Trendline for Men: Age vs: Salary"},
 
-            trace5 = {x:xArray5, y:yArray5, xaxis: 'x5', yaxis: 'y5', mode:"markers", name: "Data points for Women: Years Coding Vs. Salary"},
-            {x:xValues5, y:yValues5, xaxis: 'x5',yaxis: 'y5', mode:"lines", name: "Linear Regression Trendline for Women: Years Coding vs: Salary"}, 
+            trace5 = {x:xArray5, y:yArray5, xaxis: 'x5', yaxis: 'y5', mode:"markers", name: "Data points for Men: Formal Education Vs. Salary"},
+            {x:xValues5, y:yValues5, xaxis: 'x5',yaxis: 'y5', mode:"lines", name: "Linear Regression Trendline for Men: Formal Education vs: Salary"}, 
             
             trace6 = {x:xArray6, y:yArray6, xaxis: 'x6', yaxis: 'y6', mode:"markers", name: "Data points for Men: Years Coding Vs. Salary"},
-            {x:xValues6, y:yValues6, xaxis: 'x6', yaxis: 'y6', mode:"lines", name: "Linear Regression Trendline for Women: Years Coding vs: Salary"}];
+            {x:xValues6, y:yValues6, xaxis: 'x6', yaxis: 'y6', mode:"lines", name: "Linear Regression Trendline for Men: Years Coding vs: Salary"}];
   
   
 
@@ -237,7 +242,7 @@ var data = [trace1 = {x:xArray, y:yArray, xaxis: 'x', yaxis: 'y', mode:"markers"
       yref: 'paper',
     },
       {
-          text: "Men: Age Vs. Salary",
+          text: "Women: Formal Education Vs. Salary",
         font: {
         size: 16,
         color: 'black',
@@ -250,7 +255,7 @@ var data = [trace1 = {x:xArray, y:yArray, xaxis: 'x', yaxis: 'y', mode:"markers"
       yref: 'paper',
       },
       {
-        text: "Women: Formal Education Vs. Salary",
+        text: "Women: Years Coding Vs. Salary",
       font: {
       size: 16,
       color: 'black',
@@ -263,7 +268,7 @@ var data = [trace1 = {x:xArray, y:yArray, xaxis: 'x', yaxis: 'y', mode:"markers"
     yref: 'paper',
     },
     {
-      text: "Men: Formal Education Vs. Salary",
+      text: "Men: Age Vs. Salary",
     font: {
     size: 16,
     color: 'black',
@@ -277,7 +282,7 @@ var data = [trace1 = {x:xArray, y:yArray, xaxis: 'x', yaxis: 'y', mode:"markers"
   },
 
   {
-    text: "Women: Years Coding Vs. Salary",
+    text: "Men: Formal Education Vs. Salary",
   font: {
   size: 16,
   color: 'black',
@@ -309,4 +314,3 @@ yref: 'paper',
   
   // Render the plot to the div tag with id "plot"
 Plotly.newPlot("plot", data, layout);
-  
