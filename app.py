@@ -31,24 +31,23 @@ def index():
 def not_found(e):
     return render_template('404.html')
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
-
-
-
-@app.route('/about/')
-def about():
-    return render_template('about.html')
-
-
 @app.errorhandler(404)
 def not_found(e):
     return render_template('404.html')
 
 
 if __name__ == '__main__':
-    # db.create_all()
     app.run(debug=True)
-    # app.run_server(debug=True)
+
+
+
+@app.route(/api/data)
+def data():
+    
+    return render_template('about.html')
+
+
+
+
+
 
