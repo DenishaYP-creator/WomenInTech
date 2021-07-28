@@ -126,7 +126,7 @@ Google Slide Template Link: https://docs.google.com/presentation/d/14lsTK_TZEUkB
 - SQLQUERIES.sql
 - TableQueries.sql
 
-[![ERD3.png](https://i.postimg.cc/N058nJ9J/ERD3.png)](https://postimg.cc/2qNBbxxh)
+![ERD3.png](ERD3.png)
 
 
 
