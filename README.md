@@ -67,9 +67,11 @@ The provisional that will mimics the expected final database structure or schema
 ### MACHINE LEARNING MODEL 
 
 **Machine Learning Files**
-- Salary_vs_Education.ipynb
-- Salary_vs_Years_Coding.ipynb
-- Salary_vs_Age.ipynb
+- Means_Salary_vs_Education.ipynb
+- Means_Salary_vs_Years_Coding.ipynb
+- Means_Salary_vs_Age.ipynb
+- Men_Salary_Prediction_GUI
+- Women_Salary_Prediction_GUI
 
 **Our Process:**
 - The data was process utlizing Jupyter notebook and python Pandas module.  
@@ -91,6 +93,20 @@ The provisional that will mimics the expected final database structure or schema
 **Results:**
 
 Predictions Results: **Female:** 885   **Male:** 3903
+
+**Female**
+R-squared Value | 0.850
+Intercept | -10533.346696907938
+Age_Coefficent | 1642.32066185
+Formal_Education Coeffiecent | 992.60496029
+Years_Coding Coefficent | 338.05303618
+
+**Male** 
+R-squared Value |  0.992
+Intercept | -3521.425764058258
+Age_Coefficent | 78.46865159
+Formal_Education Coeffiecent | 4836.1987244
+Years_Coding Coefficent | 6189.2322976
 
 **Salary_vs_Education** | Female| Male
 ------------ | -------------| -------------
