@@ -94,17 +94,18 @@ The provisional that will mimics the expected final database structure or schema
 
 Predictions Results: **Female:** 885   **Male:** 3903
 
-**Female**
-R-squared Value | 0.850
-Intercept | -10533.346696907938
-Age_Coefficent | 1642.32066185
-Formal_Education Coeffiecent | 992.60496029
-Years_Coding Coefficent | 338.05303618
+| **Female** | **Male** 
+------------ | -------------| -------------
+R-squared Value | 0.850 | 0.992
+Intercept | -10533.346696907938 | -3521.425764058258
+Age_Coefficent | 1642.32066185 | 78.46865159
+Formal_Education Coeffiecent | 992.60496029 | 4836.1987244
+Years_Coding Coefficent | 338.05303618 | 6189.2322976
 
 **Male** 
 R-squared Value |  0.992
-Intercept | -3521.425764058258
-Age_Coefficent | 78.46865159
+Intercept | -3521.425764058258 | -3521.425764058258
+Age_Coefficent | 78.46865159 | 
 Formal_Education Coeffiecent | 4836.1987244
 Years_Coding Coefficent | 6189.2322976
 
