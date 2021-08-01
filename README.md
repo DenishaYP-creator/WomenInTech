@@ -5,8 +5,6 @@
 
 # WomenInTech: 
 
-# Segment One: Sketch It Out 
-
 ### Overview of the Problem
 
 **Target Population of Interest:** Women in Machine Learning and Data Science  Technology roles in the United States who responded to annual Surveys of various sources.
@@ -74,12 +72,6 @@ The provisional that will mimics the expected final database structure or schema
 [![Categories.png](https://i.postimg.cc/cJmkh66p/Categories.png)](https://postimg.cc/KK15vGPf)
 
 
-<hr> 
-
-[![Secment2.png](https://i.postimg.cc/HkqQNNjs/Secment2.png)](https://postimg.cc/9DBRRJGv)
-
-# Segment Two: 
-
 ### MACHINE LEARNING MODEL 
 
 **Machine Learning Files**
@@ -128,6 +120,11 @@ Years_Coding Coefficent | [338.05303618] | 6189.2322976
 Using both Male and Female intercepts and coefficents, a salary prediction calculator was created using Javascript, HTML, and Plotly. Enter an age, education level (0-6), and number of years coding.  The calculator when predict a salary for both men and women, base on the features of the dataset. 
 
 [Salary Prediction](https://snkty8.github.io/MLR_Model/)
+
+
+**Conclusion**
+
+Based on our dataset, there is a gender gap in Salary.  On average, men are making more than women at the same age, education level, and years of experience. Age and years of coding have a higher correlation with salary than, education. One does not need a degree in the field of data analytics in order to be successful.  In our case, success is based upon salary.  The project does have its flaws due our definition of success.  In the real world, salary is only one factor in what it means to be successful. Success can also be defined by maintaining a level of stability in not only one's work, but also personal relationships.  Success grants the opportunity to open doors and avenues for future generations and a foundation for one's legacy.
 
 
 ### Dashboard & Presentation 
