@@ -1,0 +1,361 @@
+<<!----Home Page with base page Elements---->
+    {% extends 'base.html' %}
+    {% import 'macros.html' as macros %}
+
+    <!----Start of Body of the Application AKA Content Block---->
+    {% block page_content %}
+
+
+    <!------------------------JUMBOTRON SECTION-------------------->
+    <div class="jumbotron bg-gradient-primary text-center ">
+        <h1>WOMEN IN TECH</h1>
+        <p> The State of Women In Technology Roles </p>
+        <a type="button" class="btn btn-lg btn-primary" href="https://github.com/DenishaYP-creator/WomenInTech"><span
+                class="glyphicon glyphicon-download"></span> GitHub Repo</a>
+    </div>
+
+
+    <!----------------------THE PROBLEM Section--------------------------------------->
+
+    <div class="container text-center">
+        <h1>OVERVIEW</h1>
+        <p align="left" class="h4">
+            <According to the US Bureau of Labor Statistics, "Employment in computer and information technology occupations is projected to grow
+        faster than the average for all occupations.</p>
+        <p align=" left" class="h3">
+                Despite the growth in Technology jobs, the number of women in the United States
+                occupying roles in Technology is significantly less than their male counterparts.
+                When we look at the women's representation in the Technology roles, specifically women
+                in Software Engineering, the data science field, the gender imbalance remains true.
+        </p>
+        <br>
+        <div class="container bg-2 text-center">
+            <div class="row">
+                <divlass=" col-sm-2">
+            </div>
+            <div class="col-md-12">
+                <img src="./static/images/womengroup.jpg" alt="WOMEN GROUP PIC" border='0' style="width:100%">
+            </div>
+        </div>
+    </div>
+    <br>
+    </div <!--SPACE-->
+    <div>
+        {% if True %}
+        {% endif %}
+    </div>
+    <hr>
+
+
+    <!----------------------THE QUESTION SECTION--------------------------------------->
+    <!--Startof The question image-->
+
+
+    <div class="container text-center">
+        <h1>QUESTION</h1>
+        <p align="left" class="h3"><strong></strong>
+            What is the difference between the percentage of
+            the women (Kaggle survey respondents) population and men (Kaggle survey respondents) population
+            who occupied Technology roles in Software Engineering, Machine Learning, and Data Science in the United
+            States?<br>
+            When comparing men and women in similar positions, what factors impact does a pay gap exist?
+            Do years of coding experience and education influence the salary of women?
+        </p>
+    </div <!----------------------THE STUDY --------------------------------------->
+    <hr>
+
+
+    <div class="container bg-2 text-center">
+        <div class=" col-sm-12">
+            <div class="row">
+                <img src="./static/images/study2.png" alt="THE STUDY" border='0' style="width:100%">
+            </div>
+        </div>
+    </div>
+    <divlass=" col-sm-2">
+        </div>
+        <br>
+        <br>
+
+        <div class="container text-center">
+            <h1>OBJECTIVE</h1>
+
+            <p align="left" class="h3">
+                In Our analysis, we compared the 2020 Kaggle survey results against the previous
+                two years survey to determine the key differences between men & women within the
+                dataset to reject the null hypothesis and conclude that a gender
+                and pay gap imbalance exists. <br>In our analysis, we utilized Scikit-learn machine
+                learning library for Python to model the relationship between salary and Age, Formal Education
+                & Years of Coding using a supervised linear Regression method.
+            </p>
+        </div <hr>
+
+        <div class="container bg-2 text-center">
+            <h1>Statistics on
+                <strong>Women In Tech</strong>
+                Versus Men
+            </h1>
+            <p>Based on Kaggle Survey Response</p>
+            <h4>Based on the results from our Machine learning model we can conclude that there
+                is a strong
+                relationship
+                between salary
+                and the three variables, where the salary increases as the age, the amount of years coding, and
+                education
+                increases. </h4>
+        </div>
+        <br>
+
+        <div class=" container bg-secondary text-left">
+            <!--ROW-Start-->
+            <div class="row">
+                <div class="col-sm-6">
+                    <center>
+                        <h3><span class="glyphicon glyphicon-check" aria-hidden="true"></span>Salary
+                        </h3>
+                    </center>
+                    <center>
+                        <br>
+                        <ul class="list-group">
+                            <li class="list-group-item"> <strong> Average Women: 105,417</strong> <br>Average Men:
+                                128,030
+                            </li>
+                            <li class="list-group-item"><strong> Women Minimum: 89,402 </strong> <br>Men Minimum: 90,913
+                            </li>
+                            <li class="list-group-item"><strong> Women Maximum: 131,092 </strong><br>Men Maximum:
+                                156,182
+                            </li>
+                            <li class="list-group-item"><strong> Women Median: 99,378 </strong><br>Men Median: 129,349
+                            </li>
+                        </ul>
+                        <br>
+                    </center>
+                </div>
+
+
+
+                <!--Large Container Div- Start-->
+                <div class="col-sm-6">
+                    <div class='tableauPlaceholder' id='viz1627523807711' style='position: relative'><noscript><a
+                                href='#'><img alt='Avg Salary By Position-TreeMap '
+                                    src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;AvgSalaryByPosition-TreeMap&#47;AvgSalaryByPosition-TreeMap&#47;1_rss.png'
+                                    style='border: none' /></a></noscript><object class='tableauViz'
+                            style='display:none;'>
+                            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                            <param name='embed_code_version' value='3' />
+                            <param name='site_root' value='' />
+                            <param name='name' value='AvgSalaryByPosition-TreeMap&#47;AvgSalaryByPosition-TreeMap' />
+                            <param name='tabs' value='no' />
+                            <param name='toolbar' value='yes' />
+                            <param name='static_image'
+                                value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;AvgSalaryByPosition-TreeMap&#47;AvgSalaryByPosition-TreeMap&#47;1.png' />
+                            <param name='animate_transition' value='yes' />
+                            <param name='display_static_image' value='yes' />
+                            <param name='display_spinner' value='yes' />
+                            <param name='display_overlay' value='yes' />
+                            <param name='display_count' value='yes' />
+                            <param name='language' value='en-US' />
+                            <param name='filter' value='publish=yes' />
+                        </object></div>
+                    <script
+                        type='text/javascript'>                    var divElement = document.getElementById('viz1627523807711'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+                    <!--Large ContainerDiv-End -->
+                </div>
+                <!--ROW End -->
+            </div>
+
+            <hr>
+
+
+            <div class=" container bg-secondary text-left">
+                <!--ROW-Start-->
+                <div class="row">
+                    <!--Small ContainerDiv-Start -->
+                    <div class="col-sm-6">
+                        <center>
+                            <h3><span class="glyphicon glyphicon-check" aria-hidden="true"></span>Age
+                                <span class="glyphicon glyphicon-check" aria-hidden="true"></span>Education
+                                <span class="glyphicon glyphicon-check" aria-hidden="true"></span>Years Coding
+                            </h3>
+                        </center>
+                        <br>
+                        <center>
+                            <ul class="list-group">
+                                <li class="list-group-item"> <strong> Women Total Count: 855 </strong> <br>Men Total
+                                    Count:
+                                    3903
+                                </li>
+                                <li class="list-group-item"><strong> Women Median Age: 32 </strong> <br>Men Median Age:
+                                    32
+                                </li>
+                                <li class="list-group-item"><strong> Women Median Education: 3 </strong><br>Men Median
+                                    Education: 3
+                                </li>
+                                <li class="list-group-item"><strong> Women Median Years Coding: 5 </strong><br>Men
+                                    Median Years Coding 10
+                                </li>
+                            </ul>
+                        </center>
+                    </div>
+                    <br>
+                    <!--Large Container Div- Start-->
+                    <div class="col-sm-6">
+                        <div class='tableauPlaceholder' id='viz1627523386563' style='position: relative'><noscript><a
+                                    href='#'><img alt='Median Stats '
+                                        src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MedianDash-EmbedSheet&#47;MedianEmbed&#47;1_rss.png'
+                                        style='border: none' /></a></noscript><object class='tableauViz'
+                                style='display:none;'>
+                                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                                <param name='embed_code_version' value='3' />
+                                <param name='site_root' value='' />
+                                <param name='name' value='MedianDash-EmbedSheet&#47;MedianEmbed' />
+                                <param name='tabs' value='no' />
+                                <param name='toolbar' value='yes' />
+                                <param name='static_image'
+                                    value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MedianDash-EmbedSheet&#47;MedianEmbed&#47;1.png' />
+                                <param name='animate_transition' value='yes' />
+                                <param name='display_static_image' value='yes' />
+                                <param name='display_spinner' value='yes' />
+                                <param name='display_overlay' value='yes' />
+                                <param name='display_count' value='yes' />
+                                <param name='language' value='en-US' />
+                                <param name='filter' value='publish=yes' />
+                            </object></div>
+                        <script
+                            type='text/javascript'>                    var divElement = document.getElementById('viz1627523386563'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+                    </div>
+                    <!--Large ContainerDiv-End -->
+                </div>
+                <!--ROW End -->
+            </div>
+
+
+            <hr>
+
+            <!--DASH BOARD SECTION --------------------------------------------->
+            <div class="container-fluid">
+                <!-- <h1>Multiple Linear Regression Dashboard</h1>
+                <h3>This tool is used to predict Salary based on the Kaggle survey dataset</h3> -->
+                <div class="col-md-12 jumbotron text-center">
+                    <h1>Multiple Linear Regression Prediction Tool
+                    </h1>
+                    <h3>This tool is used to predict Salary based on the Kaggle survey dataset</h3>
+                </div>
+            </div>
+
+            <div>
+                {% if True %}
+                {% endif %}
+            </div>
+
+            <!--NEW ACTION-->
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-4">
+                        <!-- <div class="thumbnail"> -->
+                        <table class="table table-striped" id="tables">
+                            <tr>
+                                <td>0</td>
+                                <td>Prefer not to answer</td>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>None</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Some</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Professional Degree</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Bachelors Degree</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Master's Degree</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Doctoral Degree</td>
+                        </table>
+                    </div>
+
+
+                    <div class="col-md-4">
+                        <!-- <div class="thumbnail"> -->
+                        <table id="tables" class="table table-striped">
+                            <tr>
+                                <td> Age </td>
+                                <td> <input type="number" value="0" class="qty" id="qty_age" /></td>
+                            </tr>
+                            <tr>
+                                <td>Formal Education </td>
+                                <td> <input type="number" value="0" class="qty" id="qty_education" /></td>
+                            </tr>
+                            <tr>
+                                <td>Years Coding</td>
+                                <td> <input type="number" class="qty" value="0" id="qty_coding" /></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <!-- </div> -->
+
+                    <div class="col-md-4">
+                        <!-- <div class="thumbnail"> -->
+                        <table class="table table-striped" id="tables">
+                            <tr>
+                                <td>Women's Salary Prediction</td>
+                                <td> <span id="total_value1">Total Value 1</span></td>
+                            </tr>
+                            <tr>
+                                <td>Women's Salary Prediction</td>
+                                <td> <span id="total_value2">Total Value 1</span></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <!--Row -->
+            </div>
+            <!--Container -->
+            <!-- </div> -->
+            <hr>
+
+            <!--PLOT SECTION-->
+            <div class="container-fluid">
+                <div class="col-md-8">
+                    <div id="plot"></div>
+                </div>
+            </div>
+
+            <hr>
+
+            <!----------------------MEET THE TEAM--------------------------------------->
+            <div class="container bg-2 text-center">
+                <h1>MEET THE TEAM</h1>
+                <div class=" col-sm-12">
+                    <div class="row">
+                        <img src="./static/images/Teampic.png" alt="THE TEAM" border='0' style="width:100%">
+                    </div>
+                </div>
+            </div>
+            <divlass=" col-sm-2">
+        </div>
+        <br>
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script src="static/js/data_men.js"></script>
+        <script src="static/js/data_women.js"></script>
+        <script src="static/js/app.js"></script>
+        <script src="static/js/plots.js"></script>
+
+        {% endblock %}
+        <!----End Content Block---->
