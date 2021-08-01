@@ -132,6 +132,7 @@ In addition to Google Slides the team will create a Flask Appplication that will
 The final Women In Tech dashboard will ulized plotly js library to create interactive charts to show case the findings.
 
 Google Slide Template Link: https://docs.google.com/presentation/d/14lsTK_TZEUkBLGRvn5NSM5nXPuJzJcnixqrUnA2axA8/edit?usp=sharing (In progress) 
+Heroku App: https://women-in-tech-project.herokuapp.com/
 
 
 ### DATABASE  
