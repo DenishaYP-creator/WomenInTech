@@ -39,6 +39,9 @@ The Women in Tech Github Repo has a main branch and 5 branches that are specific
 ### ETL Process
 Cleaned Kaggle data sets are location: Resources/Gender_Gap_In_Tech_Survery_Data
 Columns used: Age, Gender, Country, Formal Education, Position, Years Coding, and Salary
+
+![image](https://github.com/DenishaYP-creator/WomenInTech/blob/main/Resources/Images/Clean%20data.png)
+
 Cleaning Process:
 Since given in the format of a range, used the mean of the age and salary, and the higher year of years coding.  All were then transformed from an object to float.  All special characters were also removed.
 
