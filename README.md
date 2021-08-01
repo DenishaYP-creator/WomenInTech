@@ -124,6 +124,11 @@ Years_Coding Coefficent | [338.05303618] | 6189.2322976
 
 ![image](https://github.com/DenishaYP-creator/WomenInTech/blob/main/Resources/Images/Coding%20vs%20Salary.png)
 
+**Salary Prediction**
+Using both Male and Female intercepts and coefficents, a salary prediction calculator was created using Javascript, HTML, and Plotly. Enter an age, education level (0-6), and number of years coding.  The calculator when predict a salary for both men and women, base on the features of the dataset. 
+
+[Salary Prediction](https://snkty8.github.io/MLR_Model/)
+
 
 ### Dashboard & Presentation 
 In addition to Google Slides the team will create a Flask Appplication that will connect to Heroku. 
