@@ -67,9 +67,11 @@ The provisional that will mimics the expected final database structure or schema
 ### MACHINE LEARNING MODEL 
 
 **Machine Learning Files**
-- Salary_vs_Education.ipynb
-- Salary_vs_Years_Coding.ipynb
-- Salary_vs_Age.ipynb
+- Means_Salary_vs_Education.ipynb
+- Means_Salary_vs_Years_Coding.ipynb
+- Means_Salary_vs_Age.ipynb
+- Men_Salary_Prediction_GUI
+- Women_Salary_Prediction_GUI
 
 **Our Process:**
 - The data was process utlizing Jupyter notebook and python Pandas module.  
@@ -92,26 +94,20 @@ The provisional that will mimics the expected final database structure or schema
 
 Predictions Results: **Female:** 885   **Male:** 3903
 
-**Salary_vs_Education** | Female| Male
+Vlaues | **Female** | **Male** 
 ------------ | -------------| -------------
-Coefficent| [14895.62758145]| 35160.81416349059
-Intercept | [6749.67429451]| 99772.47478803102
-rsquared| 0.03930021772367798 |0.008440846472859365
-**Salary_vs_Years_Coding** | **Female** |**Male** 
-Coefficent| [3586.23031933] | 76808.07128281836
-Intercept | [3518.21343549] | 96006.81994698191
-rsquared| 0.1686829283894643| 0.12449161784230522
-**Salary_vs_Age** | **Female** |**Male** 
-Coefficent|[1056.24293621] | 70888.22871340805
-Intercept |[1639.68849527] | 68944.7988896175
-rsquared| 0.03064321419116678 | 0.06905352422189848 
+R-squared Value | 0.850 | 0.992
+Intercept | [-10533.346696907938] | -3521.425764058258
+Age_Coefficent | [1642.32066185] | 78.46865159
+Formal_Education Coeffiecent | [992.60496029] | 4836.1987244
+Years_Coding Coefficent | [338.05303618] | 6189.2322976
 
+![image](https://github.com/DenishaYP-creator/WomenInTech/blob/main/Resources/Images/Age%20vs%20Salary.png)
 
-[![Salary-vs-Education.png](https://i.postimg.cc/L80dG33C/Salary-vs-Education.png)](https://postimg.cc/v49SV9jf)
+![image](https://github.com/DenishaYP-creator/WomenInTech/blob/main/Resources/Images/Education%20vs%20Salary.png)
 
-[![Salary-vs-Years-Coding.png](https://i.postimg.cc/gksbHWXP/Salary-vs-Years-Coding.png)](https://postimg.cc/F7Y6hwVP)
+![image](https://github.com/DenishaYP-creator/WomenInTech/blob/main/Resources/Images/Coding%20vs%20Salary.png)
 
-[![Salary-vs-Age.png](https://i.postimg.cc/j29NG9Cq/Salary-vs-Age.png)](https://postimg.cc/Fky7STjw)
 
 ### Dashboard & Presentation 
 In addition to Google Slides the team will create a Flask Appplication that will connect to Heroku. 
