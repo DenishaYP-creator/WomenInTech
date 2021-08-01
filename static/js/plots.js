@@ -221,13 +221,14 @@ for (var x = 0; x <= 14; x += 1) {
 
 
 
+//DATA VARIABLE FOR PLOT 
 var data = [trace1 = {
     x: xArray,
     y: yArray,
     xaxis: 'x',
     yaxis: 'y',
     mode: "markers",
-    name: "Data points for Women: Age Vs. Salary"
+    name: "Age Data pts: Women"
   },
   {
     x: xValues,
@@ -235,7 +236,7 @@ var data = [trace1 = {
     xaxis: 'x',
     yaxis: 'y',
     mode: "lines",
-    name: "Linear Regression Trendline for Women: Age vs: Salary"
+    name: "Age Linear Regression line: Women "
   },
 
   trace2 = {
@@ -244,7 +245,7 @@ var data = [trace1 = {
     xaxis: 'x2',
     yaxis: 'y2',
     mode: "markers",
-    name: "Data points for Women: Formal Education Vs. Salary"
+    name: "Age Data pts: Men"
   },
   {
     x: xValues2,
@@ -252,7 +253,7 @@ var data = [trace1 = {
     xaxis: 'x2',
     yaxis: 'y2',
     mode: "lines",
-    name: "Linear Regression Trendline for Women: Formal Education vs: Salary"
+    name: "Age Linear Regression line: Men"
   },
 
   trace3 = {
@@ -261,7 +262,7 @@ var data = [trace1 = {
     xaxis: 'x3',
     yaxis: 'y3',
     mode: "markers",
-    name: "Data points for Women: Years Coding Vs. Salary"
+    name: "Education Data pts: Women"
   },
   {
     x: xValues3,
@@ -269,7 +270,7 @@ var data = [trace1 = {
     xaxis: 'x3',
     yaxis: 'y3',
     mode: "lines",
-    name: "Linear Regression Trendline for Women: Years Coding vs: Salary"
+    name: "Education Linear Regression line: Women"
   },
 
   trace4 = {
@@ -278,7 +279,7 @@ var data = [trace1 = {
     xaxis: 'x4',
     yaxis: 'y4',
     mode: "markers",
-    name: "Data points for Men: Age Vs. Salary"
+    name: "Education Data pts: Men "
   },
   {
     x: xValues4,
@@ -286,7 +287,7 @@ var data = [trace1 = {
     xaxis: 'x4',
     yaxis: 'y4',
     mode: "lines",
-    name: "Linear Regression Trendline for Men: Age vs: Salary"
+    name: "Education Linear Regression line: Men"
   },
 
   trace5 = {
@@ -295,7 +296,7 @@ var data = [trace1 = {
     xaxis: 'x5',
     yaxis: 'y5',
     mode: "markers",
-    name: "Data points for Men: Formal Education Vs. Salary"
+    name: "Years Coding Data pts: Women"
   },
   {
     x: xValues5,
@@ -303,7 +304,7 @@ var data = [trace1 = {
     xaxis: 'x5',
     yaxis: 'y5',
     mode: "lines",
-    name: "Linear Regression Trendline for Men: Formal Education vs: Salary"
+    name: "Years Coding Linear Regression line: Women"
   },
 
   trace6 = {
@@ -312,7 +313,7 @@ var data = [trace1 = {
     xaxis: 'x6',
     yaxis: 'y6',
     mode: "markers",
-    name: "Data points for Men: Years Coding Vs. Salary"
+    name: "Data pts Men: Years Coding Vs. Salary"
   },
   {
     x: xValues6,
@@ -320,23 +321,30 @@ var data = [trace1 = {
     xaxis: 'x6',
     yaxis: 'y6',
     mode: "lines",
-    name: "Linear Regression Trendline for Men: Years Coding vs: Salary"
+    name: "Years Coding Linear Regression line: Women"
   }
 ];
 
 
-
+//LAYOUT VARIABLE FOR PLOT: layout 
 var layout = {
   grid: {
     rows: 3,
     columns: 3,
-    pattern: 'independent'
+    pattern: 'independent',
+    // subplots: [
+    //   ['xy', 'x2y2'],
+    //   ['x3y3', 'x4y4']['x5y5', 'x6y6']
+    // ],
+  },
+  legend: {
+    "orientation": "h"
   },
   autosize: false,
-  width: 1500,
-  height: 1500,
+  width: 1200,
+  height: 1200,
   annotations: [{
-      text: "Women: Age Vs. Salary",
+      text: "Women: Age Vs Salary",
       font: {
         size: 16,
         color: 'black',
@@ -349,7 +357,7 @@ var layout = {
       yref: 'paper',
     },
     {
-      text: "Women: Formal Education Vs. Salary",
+      text: "Men: Age Vs Salary",
       font: {
         size: 16,
         color: 'black',
@@ -362,7 +370,7 @@ var layout = {
       yref: 'paper',
     },
     {
-      text: "Women: Years Coding Vs. Salary",
+      text: "Women: Formal Education Vs Salary",
       font: {
         size: 16,
         color: 'black',
@@ -375,7 +383,7 @@ var layout = {
       yref: 'paper',
     },
     {
-      text: "Men: Age Vs. Salary",
+      text: "Men: Formal Education Vs Salary",
       font: {
         size: 16,
         color: 'black',
@@ -389,7 +397,7 @@ var layout = {
     },
 
     {
-      text: "Men: Formal Education Vs. Salary",
+      text: "Women: Years Coding Vs Salary",
       font: {
         size: 16,
         color: 'black',
@@ -403,7 +411,7 @@ var layout = {
     },
 
     {
-      text: "Men: Years Coding Vs. Salary",
+      text: "Men: Years Coding Vs Salary",
       font: {
         size: 16,
         color: 'black',
@@ -416,8 +424,210 @@ var layout = {
       yref: 'paper',
     }
   ]
-
 };
 
+
 // Render the plot to the div tag with id "plot"
-Plotly.newPlot("plot", data, layout)
+Plotly.newPlot("plot", data, layout);
+
+
+// var data = [trace1 = {
+//     x: xArray,
+//     y: yArray,
+//     xaxis: 'x',
+//     yaxis: 'y',
+//     mode: "markers",
+//     name: "Data points for Women: Age Vs. Salary"
+//   },
+//   {
+//     x: xValues,
+//     y: yValues,
+//     xaxis: 'x',
+//     yaxis: 'y',
+//     mode: "lines",
+//     name: "Linear Regression Trendline for Women: Age vs: Salary"
+//   },
+
+//   trace2 = {
+//     x: xArray2,
+//     y: yArray2,
+//     xaxis: 'x2',
+//     yaxis: 'y2',
+//     mode: "markers",
+//     name: "Data points for Women: Formal Education Vs. Salary"
+//   },
+//   {
+//     x: xValues2,
+//     y: yValues2,
+//     xaxis: 'x2',
+//     yaxis: 'y2',
+//     mode: "lines",
+//     name: "Linear Regression Trendline for Women: Formal Education vs: Salary"
+//   },
+
+//   trace3 = {
+//     x: xArray3,
+//     y: yArray3,
+//     xaxis: 'x3',
+//     yaxis: 'y3',
+//     mode: "markers",
+//     name: "Data points for Women: Years Coding Vs. Salary"
+//   },
+//   {
+//     x: xValues3,
+//     y: yValues3,
+//     xaxis: 'x3',
+//     yaxis: 'y3',
+//     mode: "lines",
+//     name: "Linear Regression Trendline for Women: Years Coding vs: Salary"
+//   },
+
+//   trace4 = {
+//     x: xArray4,
+//     y: yArray4,
+//     xaxis: 'x4',
+//     yaxis: 'y4',
+//     mode: "markers",
+//     name: "Data points for Men: Age Vs. Salary"
+//   },
+//   {
+//     x: xValues4,
+//     y: yValues4,
+//     xaxis: 'x4',
+//     yaxis: 'y4',
+//     mode: "lines",
+//     name: "Linear Regression Trendline for Men: Age vs: Salary"
+//   },
+
+//   trace5 = {
+//     x: xArray5,
+//     y: yArray5,
+//     xaxis: 'x5',
+//     yaxis: 'y5',
+//     mode: "markers",
+//     name: "Data points for Men: Formal Education Vs. Salary"
+//   },
+//   {
+//     x: xValues5,
+//     y: yValues5,
+//     xaxis: 'x5',
+//     yaxis: 'y5',
+//     mode: "lines",
+//     name: "Linear Regression Trendline for Men: Formal Education vs: Salary"
+//   },
+
+//   trace6 = {
+//     x: xArray6,
+//     y: yArray6,
+//     xaxis: 'x6',
+//     yaxis: 'y6',
+//     mode: "markers",
+//     name: "Data points for Men: Years Coding Vs. Salary"
+//   },
+//   {
+//     x: xValues6,
+//     y: yValues6,
+//     xaxis: 'x6',
+//     yaxis: 'y6',
+//     mode: "lines",
+//     name: "Linear Regression Trendline for Men: Years Coding vs: Salary"
+//   }
+// ];
+
+
+
+// var layout = {
+//   grid: {
+//     rows: 3,
+//     columns: 3,
+//     pattern: 'independent'
+//   },
+//   autosize: false,
+//   width: 1500,
+//   height: 1500,
+//   annotations: [{
+//       text: "Women: Age Vs. Salary",
+//       font: {
+//         size: 16,
+//         color: 'black',
+//       },
+//       showarrow: false,
+//       align: 'center',
+//       x: 0.025,
+//       y: 1,
+//       xref: 'paper',
+//       yref: 'paper',
+//     },
+//     {
+//       text: "Women: Formal Education Vs. Salary",
+//       font: {
+//         size: 16,
+//         color: 'black',
+//       },
+//       showarrow: false,
+//       align: 'center',
+//       x: 0.45,
+//       y: 1,
+//       xref: 'paper',
+//       yref: 'paper',
+//     },
+//     {
+//       text: "Women: Years Coding Vs. Salary",
+//       font: {
+//         size: 16,
+//         color: 'black',
+//       },
+//       showarrow: false,
+//       align: 'center',
+//       x: 0.97,
+//       y: 1,
+//       xref: 'paper',
+//       yref: 'paper',
+//     },
+//     {
+//       text: "Men: Age Vs. Salary",
+//       font: {
+//         size: 16,
+//         color: 'black',
+//       },
+//       showarrow: false,
+//       align: 'center',
+//       x: 0.025,
+//       y: .65,
+//       xref: 'paper',
+//       yref: 'paper',
+//     },
+
+//     {
+//       text: "Men: Formal Education Vs. Salary",
+//       font: {
+//         size: 16,
+//         color: 'black',
+//       },
+//       showarrow: false,
+//       align: 'center',
+//       x: 0.52,
+//       y: .65,
+//       xref: 'paper',
+//       yref: 'paper',
+//     },
+
+//     {
+//       text: "Men: Years Coding Vs. Salary",
+//       font: {
+//         size: 16,
+//         color: 'black',
+//       },
+//       showarrow: false,
+//       align: 'center',
+//       x: 0.97,
+//       y: .65,
+//       xref: 'paper',
+//       yref: 'paper',
+//     }
+//   ]
+
+// };
+
+// // Render the plot to the div tag with id "plot"
+// Plotly.newPlot("plot", data, layout)
