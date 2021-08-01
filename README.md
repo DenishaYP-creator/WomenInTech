@@ -24,7 +24,7 @@ There is NO difference between the % in the workforce and (gap in salary when co
 
 
 ### Objectives
-In Our analysis, we will compare the 2020 survey results against the previous two years surveys to determine the key differences between men & women within the dataset in order to reject the null hypythosis and conclude that gender and paygap imbalance exists.  Furthermore, we will seek to understand the state of Women in Technology roles. We will utilize a Supervised Machine learning algorithm to predict salary of women in ML & DA role based on years of experience.
+In Our analysis, we will compare the 2018, 2019, aand 2020 survey results against the previous two years surveys to determine the key differences between men & women within the dataset in order to reject the null hypythosis and conclude that gender and paygap imbalance exists.  Furthermore, we will seek to understand the state of Women in Technology roles. We will utilize a Supervised Machine learning algorithm to predict salary of women in ML & DA role based on years of experience.
 
 **Measure of Success** : The success of the project is dependent on the group ability to analyze the data and provide the necessary insight that speaks to the difference that exist in Technology roles and what impacts formal education and years of coding experience have on salary for women when compare to men. 
 
@@ -36,10 +36,23 @@ The Women in Tech Github Repo has a main branch and 5 branches that are specific
 4. Visualization
 5. Presentation
 
+### ETL Process
+Cleaned Kaggle data sets are location: Resources/Gender_Gap_In_Tech_Survery_Data
+Columns used: Age, Gender, Country, Formal Education, Position, Years Coding, and Salary
+Cleaning Process:
+Since given in the format of a range, used the mean of the age and salary, and the higher year of years coding.  All were then transformed from an object to float.  All special characters were also removed.
+
+**ELT Files**
+- Kaggle_2018.ipynb
+- Kaggle_2019.ipynb
+- Kaggle_2020.ipynb
+
 ### Machine Learning Model
 #### Quantitative data analysis methods
 The Linear Regression model machine learning model is the provisional machine learning model that stands in for the final machine learning model.
-The model would measure the degree of difference years of experience and its impact on the salary of women developers. In other see if there’s any kind of correlation between how a women salary be based on their years of experience. Additional variable (may/will) be analyzed to deter if any correlation exist. 
+The model would measure the degree of difference years of experience and its impact on the salary of women developers. In other see if there’s any kind of correlation between how a women salary be based on their years of experience. 
+
+After ploting the raw daw data, no linear correlation was seen.  After using ordinal encoding for education, the means of education, years coding, and salary were used.  Once these were plotted, there was an obvious linear correlation.
 
 
 **Target Variable: Salary**
